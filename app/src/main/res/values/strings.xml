@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GoogleCustomSearch</string>
+    <string name="enter_for_search">Enter something for search</string>
+    <string name="title">Title</string>
+    <string name="link">Link</string>
+    <string name="description">Description</string>
+
+    <!-- error messages-->
+    <string name="oops_something_went_wrong">Oops! Something went wrong</string>
+    <!--progress dialog message-->
+    <string name="please_wait">Please wait</string>
+</resources>
