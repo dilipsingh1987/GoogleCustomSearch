@@ -25,4 +25,4 @@ jobs:
           appId: ${{secrets.FIREBASE_APP_ID}}
           token: ${{secrets.FIREBASE_TOKEN}}
           groups: testers
-          file: /Users/skycore-21/Documents/GoogleCustomSearch/app/release
+          file: /Users/skycore-21/Documents/GoogleCustomSearch/app/release/app-release.apk
