@@ -13,7 +13,7 @@ jobs:
         with:
           java-version: 1.8
       - name: Build for Android
-        run: ./gradlew assembleRelease
+        run: ./gradlew debug
       - name: Deploy to App Center
         uses: zackify/AppCenter-Github-Action@1.0.0
         with:
