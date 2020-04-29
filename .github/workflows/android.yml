@@ -20,4 +20,4 @@ jobs:
           appName: org/appname
           token: ${{secrets.APP_CENTER_TOKEN}}
           group: group name
-          file: android/app/build/outputs/apk/release/app-release.apk
+          file: android/app/release/app-release.apk
