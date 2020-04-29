@@ -1,0 +1,174 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ded1ea354078a4985108254da4aa8c0a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/58efd92d5d70288f8fc604bd7d520ade/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/81a1730a8ee63d373e7784e385ffdb63/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/24b8db17e2068667eb924ded2309d326/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f465d716cd8476753222c802823382a1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/8dcebedb9094291c3c0771b56eec6896/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d40705f390f128aa0a75eff73f3f1e90/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ebb5b1bc63b15948237bc36ce66406ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/8a26d7c6a4058a93fc44bb04c760dfad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b2b51b6925a012c1b92a93cdd5011b0c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/881d180cee8ba93e148d1a951788c5cd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/aa5f6e30cb0b4c223700337f361b4c75/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b648a2c596d3b3839a757b61bba63874/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d47f134e23a45c64d78980cba514e042/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/53859e8167ae86b7bda73604bc41812a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/50943d5dc755be061a6b86cee3bd8b3e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a610d568a484e8dcf906bc6299d0cb54/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/14f5803fbb2214c370fd13528ae87efd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d3fb8daba85547f629c6d047fafc2c9f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/43e1b325a9e37ef28656ed18defe40b6/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/10348300e6a312637f0540518d7e3bed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/cd1e645f149b82deaea8ac1ab21ee087/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b8369220b241d2a69abad8314fe44c0c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/057cd36f1324bb85738da1b112558cfa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fe52b99bb1fea1f2a29df0158ba1cb47/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0ff5514d456bccc54b31924ed4e6e7e5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/351836d4bc80b3d6ec0aec40c4e4d51e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/8311e14088c5c0a78fa387d20237ecac/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ec68d4d7936cda930b5ffdfeb33da123/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/22f1064aeabe2d1d7aa0d807d2d99f27/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b06385057740853f479c296261614ad9/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:3:5-56
+		INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml
+		ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml
+		ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:8:5-22:19
+MERGED from [com.android.support:design:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ded1ea354078a4985108254da4aa8c0a/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ded1ea354078a4985108254da4aa8c0a/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d3fb8daba85547f629c6d047fafc2c9f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d3fb8daba85547f629c6d047fafc2c9f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/43e1b325a9e37ef28656ed18defe40b6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/43e1b325a9e37ef28656ed18defe40b6/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d3fb8daba85547f629c6d047fafc2c9f/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.googlecustomsearch.googlecustomsearch.GoogleCustomSearchActivity
+ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:15:19-61
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml
+INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ded1ea354078a4985108254da4aa8c0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ded1ea354078a4985108254da4aa8c0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/58efd92d5d70288f8fc604bd7d520ade/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/58efd92d5d70288f8fc604bd7d520ade/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/81a1730a8ee63d373e7784e385ffdb63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/81a1730a8ee63d373e7784e385ffdb63/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/24b8db17e2068667eb924ded2309d326/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/24b8db17e2068667eb924ded2309d326/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f465d716cd8476753222c802823382a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f465d716cd8476753222c802823382a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/8dcebedb9094291c3c0771b56eec6896/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/8dcebedb9094291c3c0771b56eec6896/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d40705f390f128aa0a75eff73f3f1e90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d40705f390f128aa0a75eff73f3f1e90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ebb5b1bc63b15948237bc36ce66406ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ebb5b1bc63b15948237bc36ce66406ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/8a26d7c6a4058a93fc44bb04c760dfad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/8a26d7c6a4058a93fc44bb04c760dfad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b2b51b6925a012c1b92a93cdd5011b0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b2b51b6925a012c1b92a93cdd5011b0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/881d180cee8ba93e148d1a951788c5cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/881d180cee8ba93e148d1a951788c5cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/aa5f6e30cb0b4c223700337f361b4c75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/aa5f6e30cb0b4c223700337f361b4c75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b648a2c596d3b3839a757b61bba63874/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b648a2c596d3b3839a757b61bba63874/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d47f134e23a45c64d78980cba514e042/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d47f134e23a45c64d78980cba514e042/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/53859e8167ae86b7bda73604bc41812a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/53859e8167ae86b7bda73604bc41812a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/50943d5dc755be061a6b86cee3bd8b3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/50943d5dc755be061a6b86cee3bd8b3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a610d568a484e8dcf906bc6299d0cb54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a610d568a484e8dcf906bc6299d0cb54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/14f5803fbb2214c370fd13528ae87efd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/14f5803fbb2214c370fd13528ae87efd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d3fb8daba85547f629c6d047fafc2c9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d3fb8daba85547f629c6d047fafc2c9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/43e1b325a9e37ef28656ed18defe40b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/43e1b325a9e37ef28656ed18defe40b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/10348300e6a312637f0540518d7e3bed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/10348300e6a312637f0540518d7e3bed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/cd1e645f149b82deaea8ac1ab21ee087/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/cd1e645f149b82deaea8ac1ab21ee087/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b8369220b241d2a69abad8314fe44c0c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b8369220b241d2a69abad8314fe44c0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/057cd36f1324bb85738da1b112558cfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/057cd36f1324bb85738da1b112558cfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fe52b99bb1fea1f2a29df0158ba1cb47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fe52b99bb1fea1f2a29df0158ba1cb47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0ff5514d456bccc54b31924ed4e6e7e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0ff5514d456bccc54b31924ed4e6e7e5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/351836d4bc80b3d6ec0aec40c4e4d51e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/351836d4bc80b3d6ec0aec40c4e4d51e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/8311e14088c5c0a78fa387d20237ecac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/8311e14088c5c0a78fa387d20237ecac/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ec68d4d7936cda930b5ffdfeb33da123/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ec68d4d7936cda930b5ffdfeb33da123/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/22f1064aeabe2d1d7aa0d807d2d99f27/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/22f1064aeabe2d1d7aa0d807d2d99f27/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b06385057740853f479c296261614ad9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b06385057740853f479c296261614ad9/AndroidManifest.xml:20:5-44
+INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml
+INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml
+		ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml
+		ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml
