@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "412851804939",
+    "firebase_url": "https://customsearch-d81e8.firebaseio.com",
+    "project_id": "customsearch-d81e8",
+    "storage_bucket": "customsearch-d81e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412851804939:android:64b228273d89418421e00e",
+        "android_client_info": {
+          "package_name": "com.googlecustomsearch.googlecustomsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412851804939-qm57binfji947mbdoe9c9k6qu0b4b5j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgGb69NwEfeD4eKt6TWNg0FFlg9e2HFjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412851804939-qm57binfji947mbdoe9c9k6qu0b4b5j0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
