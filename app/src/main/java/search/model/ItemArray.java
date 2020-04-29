@@ -8,6 +8,7 @@ import java.util.List;
 public class ItemArray {
 
 
+
     @SerializedName("items")
     @Expose
     private List<ItemResponse> items = null;
