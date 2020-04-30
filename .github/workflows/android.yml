@@ -20,9 +20,9 @@ jobs:
         run:  bash ./gradlew assembleDebug --status
 
       - name: upload artifact to Firebase App Distribution
-        uses: pizzafox/firebase-action@1.0.7
-          env:
-            PROJECT_ID: "google-cloud-or-firebase-project-id"
+        uses: wzieba/Firebase-Distribution-Github-Action@v1.1.1
+        env:
+          PROJECT_ID: "google-cloud-or-firebase-project-id"
           FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
         with:
           appId: ${{secrets.FIREBASE_APP_ID}}
