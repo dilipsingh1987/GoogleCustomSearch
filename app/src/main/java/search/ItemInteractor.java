@@ -1,7 +1,8 @@
 package search;
 
 import android.content.Context;
-import android.support.annotation.Nullable;
+
+import androidx.annotation.Nullable;
 
 import com.googlecustomsearch.googlecustomsearch.R;
 import com.squareup.otto.Produce;

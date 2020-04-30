@@ -2,11 +2,12 @@ package utilities;
 
 import android.app.Activity;
 import android.content.Context;
-import android.support.design.widget.CoordinatorLayout;
-import android.support.design.widget.Snackbar;
+import com.google.android.material.snackbar.Snackbar;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.TextView;
+
+import androidx.coordinatorlayout.widget.CoordinatorLayout;
 
 public class Utils {
 
@@ -22,7 +23,7 @@ public class Utils {
                 mMessage,
                 Snackbar.LENGTH_LONG);
         View snackBarView = snackbar.getView();
-        TextView tv = snackBarView.findViewById(android.support.design.R.id.snackbar_text);
+        TextView tv = snackBarView.findViewById(com.google.android.material.R.id.snackbar_text);
         tv.setMaxLines(3);
         snackbar.show();
     }
