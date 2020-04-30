@@ -19,10 +19,11 @@ jobs:
       - name: build release
         run:  bash ./gradlew assembleDebug --status
 
-      - name: Upload artifact to Firebase Distribution
-          uses: ./
+      - name: upload artifact to Firebase App Distribution
+        uses: wzieba/Firebase-Distribution-Github-Action@v1.1.1
+        env:
+          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
         with:
           appId: ${{secrets.FIREBASE_APP_ID}}
-          token: ${{secrets.FIREBASE_TOKEN}}
           groups: testers
           file: app/release/app-release.apk
