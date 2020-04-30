@@ -9,6 +9,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
+        - name: Get sample .apk for test purposes
+          run: wget https://github.com/appium/appium/raw/master/sample-code/apps/ApiDemos-debug.apk
       - name: set up JDK 1.8
         uses: actions/setup-java@v1
         with:
@@ -24,4 +26,4 @@ jobs:
         with:
           appId: 1:412851804939:android:64b228273d89418421e00e
           token: AAAAYB_imws:APA91bGaTWKS-vZMS0lmb7kIvMPsG1mr7EnSqhki3NtPVDcWLzHZfxYbjzsom-Z_QU7k1lkc5oC6xsPhJkerTbVw_nxbZFrXZF6rfpQ7AlxU-LF8dD1zqQ2aOObex_Zv1vXubIukBXPI
-          file: app/build/outputs/apk/release/app-debug.apk
+          file: ApiDemos-debug.apk
