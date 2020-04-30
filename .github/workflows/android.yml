@@ -17,7 +17,7 @@ jobs:
       - name: Make gradlew executable
         run: chmod +x ./gradlew
       - name: build release
-        run:  ./gradlew assembleDebug --status
+        run:  ./gradlew assembleDebug
   - name: Install Firebase
       run: yarn install
       - name: Upload APK
