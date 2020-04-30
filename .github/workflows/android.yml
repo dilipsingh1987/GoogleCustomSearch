@@ -1,27 +1,34 @@
-name: Testing Workflow
-
-on:
-  push:
-    branches:
-      - master
+name: Sample workflow for Firebase Distribution action
+on: [push, pull_request]
 jobs:
-  build-android:
+  run:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
-      - name: set up JDK 1.8
-        uses: actions/setup-java@v1
+      - name: Checkout
+        uses: actions/checkout@master
+      - name: Get sample .apk for test purposes
+        run: wget https://github.com/appium/appium/raw/master/sample-code/apps/ApiDemos-debug.apk
+      - name: Upload artifact to Firebase Distribution
+        uses: ./
         with:
-          java-version: 1.8
-
-      - name: Make gradlew executable
-        run: chmod +x ./gradlew
-      - name: build release
-        run:  bash ./gradlew assembleDebug --status
-
-      - name: upload artifact to Firebase App Distribution
-        uses: wzieba/Firebase-Distribution-Github-Action@v1.2.1
+          appId: ${{secrets.FIREBASE_APP_ID}}
+          token: ${{secrets.FIREBASE_TOKEN}}
+          groups: Testers
+          file: ApiDemos-debug.apk
+      - name: Upload artifact to Firebase Distribution with release note file
+        uses: ./
         with:
-          appId: 1:412851804939:android:64b228273d89418421e00e
-          token: AAAAYB_imws:APA91bGaTWKS-vZMS0lmb7kIvMPsG1mr7EnSqhki3NtPVDcWLzHZfxYbjzsom-Z_QU7k1lkc5oC6xsPhJkerTbVw_nxbZFrXZF6rfpQ7AlxU-LF8dD1zqQ2aOObex_Zv1vXubIukBXPI
-          file: app/build/outputs/apk/release/app-debug.apk
+          appId: ${{secrets.FIREBASE_APP_ID}}
+          token: ${{secrets.FIREBASE_TOKEN}}
+          groups: Testers
+          releaseNotesFile: README.md
+          file: ApiDemos-debug.apk
+      - name: Upload artifact to Firebase Distribution with debug
+        uses: ./
+        with:
+          appId: ${{secrets.FIREBASE_APP_ID}}
+          token: ${{secrets.FIREBASE_TOKEN}}
+          groups: Testers
+          releaseNotesFile: README.md
+          file: ApiDemos-debug.apk
+          debug: true
