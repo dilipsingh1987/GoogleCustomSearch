@@ -19,10 +19,9 @@ jobs:
       - name: build release
         run:  bash ./gradlew assembleDebug --status
 
-      - name: Firebase GitHub Action
-        uses: pizzafox/firebase-action@1.0.7
-        env:
-          PROJECT_ID: "customsearch-d81e8"
-          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
-        with:
-          args: deploy
+      - name: Deploy to Firebase
+          uses: w9jds/firebase-action@master
+          with:
+            args: deploy --only hosting
+          env:
+            FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
