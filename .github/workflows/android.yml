@@ -1,34 +1,24 @@
-name: Sample workflow for Firebase Distribution action
-on: [push, pull_request]
+name: Testing Workflow
+
+on:
+  push:
+    branches:
+      - master
 jobs:
-  run:
+  build-android:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v1
-      - name: Get sample .apk for test purposes
-        run: wget https://github.com/appium/appium/raw/master/sample-code/apps/ApiDemos-debug.apk
-      - name: Upload artifact to Firebase Distribution
-        uses: ./
+      - uses: actions/checkout@v1
+      - name: set up JDK 1.8
+        uses: actions/setup-java@v1
         with:
-          appId: ${{secrets.FIREBASE_APP_ID}}
-          token: ${{secrets.FIREBASE_TOKEN}}
-          groups: Testers
-          file: ApiDemos-debug.apk
-      - name: Upload artifact to Firebase Distribution with release note file
-        uses: ./
-        with:
-          appId: ${{secrets.FIREBASE_APP_ID}}
-          token: ${{secrets.FIREBASE_TOKEN}}
-          groups: Testers
-          releaseNotesFile: README.md
-          file: ApiDemos-debug.apk
-      - name: Upload artifact to Firebase Distribution with debug
-        uses: ./
-        with:
-          appId: ${{secrets.FIREBASE_APP_ID}}
-          token: ${{secrets.FIREBASE_TOKEN}}
-          groups: Testers
-          releaseNotesFile: README.md
-          file: ApiDemos-debug.apk
-          debug: true
+          java-version: 1.8
+
+      - name: Make gradlew executable
+        run: chmod +x ./gradlew
+      - name: build release
+        run:  bash ./gradlew assembleDebug --status
+  - name: Install Firebase
+      run: yarn install
+      - name: Upload APK
+        run: yarn run firebase appdistribution:distribute build/app/outputs/apk/release/app-debug.apk --app "${{ secrets.ANDROID_APP_ID }}" --groups GROUP --token "${{ secrets.FIREBASE_TOKEN }}"
