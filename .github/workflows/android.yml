@@ -1,6 +1,5 @@
 name: Testing Workflow
 
-
 on:
   push:
     branches:
