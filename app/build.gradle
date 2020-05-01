@@ -15,10 +15,10 @@ android {
 
     signingConfigs {
         release {
-            storeFile file("/Users/skycore-21/Documents/GoogleCustomSearchKeystore") //check that the file exists
-            storePassword "googlecustomsearch"
-            keyAlias "key"
-            keyPassword "googlecustomsearch"
+            storeFile file("/Users/skycore-21/Documents/GoogleCustomSearch/GoogleCustomSearchKeystore.jks") //check that the file exists
+            storePassword "GoogleCustomSearch"
+            keyAlias "GoogleCustomSearch"
+            keyPassword "GoogleCustomSearch"
         }
 
     }
