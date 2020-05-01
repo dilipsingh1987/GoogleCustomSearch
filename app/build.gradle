@@ -18,7 +18,7 @@ android {
             storePassword "GoogleCustomSearch"
             keyAlias "GoogleCustomSearch"
             keyPassword "GoogleCustomSearch"
-            storeFile file("GoogleCustomSearchKeystore.jks")
+            storeFile file("/Users/skycore-21/Documents/GoogleCustomSearch/app/GoogleCustomSearchKeystore.jks")
         }
 
     }
