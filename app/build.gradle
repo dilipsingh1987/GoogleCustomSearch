@@ -15,7 +15,7 @@ android {
 
     signingConfigs {
         release {
-            storeFile file("/home/runner/work/GoogleCustomSearch/GoogleCustomSearch/GoogleCustomSearchKeystore") //check that the file exists
+            storeFile file("/home/runner/work/GoogleCustomSearch/GoogleCustomSearch/GoogleCustomSearchKeystore.jks") //check that the file exists
             storePassword "GoogleCustomSearch"
             keyAlias "GoogleCustomSearch"
             keyPassword "GoogleCustomSearch"
