@@ -20,9 +20,5 @@ jobs:
       - name: build release
         run:  bash ./gradlew assembleDebug --status
 
-      - name: upload artifact to Firebase App Distribution
-        uses: wzieba/Firebase-Distribution-Github-Action@v1.2.1
-        with:
-          appId: ${{secrets.FIREBASE_APP_ID}}
-          token: ${{secrets.FIREBASE_TOKEN}}
-          file: /Users/skycore-21/Documents/GoogleCustomSearch/app/build/outputs/apk/debug/app-debug.apk
+      - name: Deploy app distribution
+        run: ./gradlew appDistributionUploadRelease
