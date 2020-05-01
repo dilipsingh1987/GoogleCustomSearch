@@ -10,8 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - name: Build Release APK
-      run: bash ./gradlew assembleRelease
+      - name: build release
+        run:  bash ./gradlew assembleRelease --status
 
       - name: Deploy app distribution
         run: bash ./gradlew appDistributionUploadRelease
