@@ -4,84 +4,84 @@ ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidMa
 INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:2:1-24:12
 INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:2:1-24:12
 INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:2:1-24:12
-MERGED from [com.google.android.material:material:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/38685527f5c4822d4686ed8fb464d611/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f9a90f622f3f073a3e14729f73e838d7/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/9ad46b6d6c7895f24e69166f1ebc17d0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a33daa8147d057c55d1d58c050389da7/AndroidManifest.xml:17:1-42:12
-MERGED from [com.google.firebase:firebase-core:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ae2a83aa90e61abc72a13496ea1df790/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/17f28489d58307228f8bb9b6964d401a/AndroidManifest.xml:2:1-18:12
-MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/52ef76816b915252252e45c1e90c7b0d/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-ml-model-interpreter:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/33ca13409be9746ae06d4c33568899fe/AndroidManifest.xml:2:1-18:12
-MERGED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2adcb0f33d671ee9285c2fce22070540/AndroidManifest.xml:17:1-44:12
-MERGED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/9b744a94e479dbaf7f5bf1ede28a95fd/AndroidManifest.xml:2:1-17:12
-MERGED from [com.google.firebase:firebase-analytics:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f5b5cf448b22daec967c2df366a2b632/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/84aa7f17f8329b598fd3f807c6d88699/AndroidManifest.xml:17:1-36:12
-MERGED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b868e5f3bc661299eeb17a390cca4340/AndroidManifest.xml:17:1-47:12
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/74b6aa8428e4215558d1099d9994845d/AndroidManifest.xml:2:1-19:12
-MERGED from [com.jakewharton:butterknife:10.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/af4c3358c790545bf376036839bffe6e/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f3e2bbc58e3ef87e30af3744bed6ecbd/AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/1c9d0b0c3947982496081361600e7174/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.gms:play-services-vision:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/49d7dcba2cfd17899f144e0d44b7b4e6/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c0ca639ef7048a30a96f5066c8474564/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/4c0d4014ff163f419eb0264b68001fb4/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/448365f52937a105f327d5f29ad5ecb2/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5d7563c36c72a34e57ed7a33c29eaa46/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/9f59a1bfad974345c4398ef4e5c503b1/AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/64b2eefb6bd5ce45f1773f8e9262d109/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/981fc4c99cf8a096b1eb6de6ee43963b/AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5941e844b434eb31f80d706d644051dc/AndroidManifest.xml:15:1-34:12
-MERGED from [com.google.firebase:firebase-installations:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/372c83edf97b18432e86749baf814d3e/AndroidManifest.xml:2:1-23:12
-MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/faf1b0a27003585fd6c0dffb1b089728/AndroidManifest.xml:15:1-39:12
-MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/cb748efb4dd58a0461c80f4ceb2f0326/AndroidManifest.xml:15:1-23:12
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/cde373e1e0bb608f92f33535cdfbe14a/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ceab3bb6ac81d4bd3197247515392bae/AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:17:1-55:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/1b3c75836882a5285f24b0f83cc9db53/AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/144dfc8c76b951b0a7ee492571f93b43/AndroidManifest.xml:17:1-40:12
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b1ef493302078c70bd41980eac27b25b/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c232afa048d535e07fb2a30256c997c4/AndroidManifest.xml:17:1-27:12
-MERGED from [com.google.android.gms:play-services-measurement-base:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/1b1b6addf3cb153e418e080b737f5b33/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/093c8d134a5926a5f0333585f66fcde0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c97e801ad68770a12e803f81ced4903b/AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.fragment:fragment:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/4fe3bab860153b4db9c8f3402bc3f553/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/1609df4dbd09f9721fa5bb89ae6233c1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5a6ea72ee2d321d982570e3063a0ec29/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/8afcd680e9bd9e34dac1b851e1a60955/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6752672d33cdfde696814d55bce36a11/AndroidManifest.xml:17:1-22:12
-MERGED from [com.jakewharton:butterknife-runtime:10.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3c1743f18ce37a8c1392317b859d92f3/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.transition:transition:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/8636137d3e8527c485bfc3f587fc15e8/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/e4ec74e5c245abab35bd5f889020861e/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/72d4ad9d3d13f5b6cf1dfcd63e531ee1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b33dbb50f3aa87cc9a4b8fe23b740854/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ee2241ed7aae9385974574cc571329a9/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3f828ffc5251baf89856d33f7286de2f/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/bff156adcc7bd8941224875503e4384e/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/4e0731fa434bd0d623acacf80d767974/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d31b99fb10687365a843fe6096578775/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d40e06a153fb63fcf805b9be9f3d78be/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3359f3b26eee5e633a29bb6ecef318bf/AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f9eee164b175b90b4dfe1bc86ec8eee9/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f755f2c513fc24b17318b05d38e5b978/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/9c2e1942a12fa765da6acd7f13999949/AndroidManifest.xml:15:1-23:12
-MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6a80ce9eb6d403b5ad6d1fc7851df84f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/eff2049dafcbab6dd0d9461d1feed25b/AndroidManifest.xml:15:1-38:12
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d7d7cf9a71c43afe05ce10166548aa4e/AndroidManifest.xml:15:1-41:12
-MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/de554d1648c0e3d9541c50496ddfadc8/AndroidManifest.xml:15:1-23:12
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/74e2f284797e075b828cf6a508227238/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/85f39abf7f6e279308dd712e34cbebe5/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f15a4594029f19877b6b771b48c1614d/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/4b00e396b3a7c3581ddc0a3e1a42430c/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6b35eafde94757fd2fe95d90ab309524/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/42a6a96a0104e345c961e10b794d8803/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/22208251a4a618d8265ff979a3a15f1b/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5a8371b71aba724330912c3a1b41f68a/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/7c36fdbe1f9c322f2f7d46cf7cff96bd/AndroidManifest.xml:17:1-22:12
-MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6c8ec7ed0dcdc2254311ce329e260af9/AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b83e40ae51aaa299e1631957bf4834f3/AndroidManifest.xml:15:1-22:12
-MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f6eacd2f682e02879eda06d9134f9ecc/AndroidManifest.xml:2:1-13:12
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a4ed6c984ac0f6920c2da3c900f68a40/AndroidManifest.xml:45:1-56:12
-MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/66be803cde9d0b625836743bb41d12cb/AndroidManifest.xml:2:1-13:12
-MERGED from [io.fabric.sdk.android:fabric:1.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5f6f0f9c3e3b4d86b6b0ee228dc2aeef/AndroidManifest.xml:22:1-33:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c01ce5d51a38a6663217e5993df9419d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ee9d13742e8d70fa1f5863efe2ab3e03/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/89ec27c421af69de4d1b599dce997933/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/22f6be965d9ba87f35ab2486567d466e/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-core:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6dd18d41805c0db65042f08efd5595fb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0c96034b09d85167eccd01434f5ed6fb/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/e03f682f595a77879e8e0f4c866a9bf4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-ml-model-interpreter:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/727a6498a6407e38575afdf19d47053a/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/e40b3d7cb1f300976b9cec0c038478e7/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b78a73e8567f2477fa8f90d1da4b5341/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6a168133e40967d84d7b28da11c76675/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/68140083cb41e4412aa27144275b50e3/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fe0312a1451bf3d953b87629d49bdb36/AndroidManifest.xml:17:1-47:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5c3465f8d17281171da1bf24e31ba4f5/AndroidManifest.xml:2:1-19:12
+MERGED from [com.jakewharton:butterknife:10.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c3572f020ffb479b2104ac03b028c86b/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0ae958b0d0449490130af2eabf6ed7e6/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a167abae991fd28dc394d8365cfa867e/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0e7c4514e93ed67e0b5f70c4e4110ee7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/47614f26dda580828d5d86bbe6e9d244/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/faaa8e439b5c56c273cdc83483772fd6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/cdc883a97543f6109ad7cbb9394add42/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3912bfcacfd8d95da0fc2350c28c4d76/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/854f7b8ab48ba45e9be46f207eb55b72/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/dff53b7ea3053f916f28dc3aa7f4b4b5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/bd81d72e2f8f2f595a37011d1e80f5ee/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/bd283f810b6c8e1ddd614d7f503c8c74/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-installations:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a9130ac0a6b37649cae23569accbb1dd/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f249d064021cea16b72906d765b5a87a/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/28ec89c3a77954136b37403f18fdb92c/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/351d8f0897d288d68b9ecd9626b10cc7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/cfdca71e2f07920fa66e5bb298ee81cf/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2eb1552326cfa24300a4710f3743dae8/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/53fb29916247300a6fcd2a8f10586d49/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a8c17439052b9618e13aa87f7c4e8fa1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/efbada8947ef1c73b7334128393763fa/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6ebdc05b3a274fce9e1751a3f5fc9390/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/7b74d04e1851dfdf6a0c059591acd145/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/73f4a3c2021eec05091c734f7637a059/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6835a5fa79b18082b224e5a3d4162ecd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b8f905049583f35d8e5532ff7f021e72/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2ca2f09ea3149ed33521a7745d91b5ad/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0f10e64742b2af62bce29c9d6fbbd634/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ddc280900b3593082279163a05b37118/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife-runtime:10.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/146954882f62acc78ded4167dd392d03/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f05a4b687ab7485700827346bc07557e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/7cf40c8185f8d6a272fdffa4731a5005/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/54576b24a28fc09bdd561b88f8ea981b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e40714f37260978d7c1ba13dbdd1a9c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f2103b31f839f876d351974562880609/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0bf1037135754903a74981e6b1e9adc5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/eda8b57b98bbd2c93ca5db6296f98b3f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3e53526fd9d458940f6eefb832a55f01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/bf9921eb0bf2f1591154b4adea0e02da/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/904da2afbfc69e912876dba816f81a49/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/53549d7d40a99b3113bcc13aaf6eb3c3/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/847562309d2f4bef80ed910ec5a6a239/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/e9b1f66b1c0bc3e1a8152d33e7d60e8c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b1e02e3bc3185f4301291b6abbea1268/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2fcce16ca1c95e1c83cc74955d6e0927/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3574d267a54c68fbc49ff04c8a71a0ef/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2e385fa3e96ef71ed0769577208e26a2/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/51d9ee8a1343913261b53ba7c7d5d3dd/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0387b10a65c6c4900c6285291849db3d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fdda04438f74b6cfb79d9a95b115bc26/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/40632fb19b86459dc85a9e8c60861c43/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a718383f38d635d73115367b133327a2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f0c48f7df54cc547c46a0585efb8312e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/1f428b1c6035865f4698f57d6bc8855b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f6a5f4c8c5bd839ef7e16f815b0ab6c2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/50b5cfb6729aa87dc2ce2f7d50cfa233/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/8218791228c16de720fad7320e62bc9b/AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d724456e43a3ee31d94bd8335a414b18/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/945aea02d5295235c734869c4b612540/AndroidManifest.xml:15:1-22:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fac95d5f4a62a6776426256551ec9e52/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/89c749c8ec6e763e79fe378e5c17a9ee/AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f550cd268ee8fb0af4719ce79ff40ab6/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ce09ba1727cc03d87599440bf5ff42fd/AndroidManifest.xml:22:1-33:12
 INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:2:1-24:12
 INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:2:1-24:12
 INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:2:1-24:12
@@ -101,138 +101,138 @@ INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/Androi
 		ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:5:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/84aa7f17f8329b598fd3f807c6d88699/AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/84aa7f17f8329b598fd3f807c6d88699/AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b868e5f3bc661299eeb17a390cca4340/AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b868e5f3bc661299eeb17a390cca4340/AndroidManifest.xml:23:5-67
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/74b6aa8428e4215558d1099d9994845d/AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/74b6aa8428e4215558d1099d9994845d/AndroidManifest.xml:9:5-67
-MERGED from [com.google.firebase:firebase-installations:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/372c83edf97b18432e86749baf814d3e/AndroidManifest.xml:11:5-67
-MERGED from [com.google.firebase:firebase-installations:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/372c83edf97b18432e86749baf814d3e/AndroidManifest.xml:11:5-67
-MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/144dfc8c76b951b0a7ee492571f93b43/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/144dfc8c76b951b0a7ee492571f93b43/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c232afa048d535e07fb2a30256c997c4/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c232afa048d535e07fb2a30256c997c4/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/eff2049dafcbab6dd0d9461d1feed25b/AndroidManifest.xml:26:5-67
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/eff2049dafcbab6dd0d9461d1feed25b/AndroidManifest.xml:26:5-67
-MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f6eacd2f682e02879eda06d9134f9ecc/AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f6eacd2f682e02879eda06d9134f9ecc/AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a4ed6c984ac0f6920c2da3c900f68a40/AndroidManifest.xml:52:5-67
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a4ed6c984ac0f6920c2da3c900f68a40/AndroidManifest.xml:52:5-67
-MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/66be803cde9d0b625836743bb41d12cb/AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/66be803cde9d0b625836743bb41d12cb/AndroidManifest.xml:9:5-67
-MERGED from [io.fabric.sdk.android:fabric:1.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5f6f0f9c3e3b4d86b6b0ee228dc2aeef/AndroidManifest.xml:29:5-67
-MERGED from [io.fabric.sdk.android:fabric:1.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5f6f0f9c3e3b4d86b6b0ee228dc2aeef/AndroidManifest.xml:29:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/68140083cb41e4412aa27144275b50e3/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/68140083cb41e4412aa27144275b50e3/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fe0312a1451bf3d953b87629d49bdb36/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fe0312a1451bf3d953b87629d49bdb36/AndroidManifest.xml:23:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5c3465f8d17281171da1bf24e31ba4f5/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5c3465f8d17281171da1bf24e31ba4f5/AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-installations:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a9130ac0a6b37649cae23569accbb1dd/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a9130ac0a6b37649cae23569accbb1dd/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/53fb29916247300a6fcd2a8f10586d49/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/53fb29916247300a6fcd2a8f10586d49/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/efbada8947ef1c73b7334128393763fa/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/efbada8947ef1c73b7334128393763fa/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3574d267a54c68fbc49ff04c8a71a0ef/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3574d267a54c68fbc49ff04c8a71a0ef/AndroidManifest.xml:26:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fac95d5f4a62a6776426256551ec9e52/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fac95d5f4a62a6776426256551ec9e52/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/89c749c8ec6e763e79fe378e5c17a9ee/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/89c749c8ec6e763e79fe378e5c17a9ee/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f550cd268ee8fb0af4719ce79ff40ab6/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f550cd268ee8fb0af4719ce79ff40ab6/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ce09ba1727cc03d87599440bf5ff42fd/AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ce09ba1727cc03d87599440bf5ff42fd/AndroidManifest.xml:29:5-67
 	android:name
 		ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:6:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/84aa7f17f8329b598fd3f807c6d88699/AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/84aa7f17f8329b598fd3f807c6d88699/AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b868e5f3bc661299eeb17a390cca4340/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b868e5f3bc661299eeb17a390cca4340/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-installations:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/372c83edf97b18432e86749baf814d3e/AndroidManifest.xml:10:5-79
-MERGED from [com.google.firebase:firebase-installations:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/372c83edf97b18432e86749baf814d3e/AndroidManifest.xml:10:5-79
-MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/144dfc8c76b951b0a7ee492571f93b43/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/144dfc8c76b951b0a7ee492571f93b43/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c232afa048d535e07fb2a30256c997c4/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c232afa048d535e07fb2a30256c997c4/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/eff2049dafcbab6dd0d9461d1feed25b/AndroidManifest.xml:25:5-79
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/eff2049dafcbab6dd0d9461d1feed25b/AndroidManifest.xml:25:5-79
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d7d7cf9a71c43afe05ce10166548aa4e/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d7d7cf9a71c43afe05ce10166548aa4e/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/68140083cb41e4412aa27144275b50e3/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/68140083cb41e4412aa27144275b50e3/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fe0312a1451bf3d953b87629d49bdb36/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fe0312a1451bf3d953b87629d49bdb36/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-installations:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a9130ac0a6b37649cae23569accbb1dd/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a9130ac0a6b37649cae23569accbb1dd/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/53fb29916247300a6fcd2a8f10586d49/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/53fb29916247300a6fcd2a8f10586d49/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/efbada8947ef1c73b7334128393763fa/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/efbada8947ef1c73b7334128393763fa/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3574d267a54c68fbc49ff04c8a71a0ef/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3574d267a54c68fbc49ff04c8a71a0ef/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2e385fa3e96ef71ed0769577208e26a2/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2e385fa3e96ef71ed0769577208e26a2/AndroidManifest.xml:22:5-79
 	android:name
 		ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:6:22-76
 application
 ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:8:5-22:19
-MERGED from [com.google.android.material:material:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/38685527f5c4822d4686ed8fb464d611/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/38685527f5c4822d4686ed8fb464d611/AndroidManifest.xml:22:5-20
-MERGED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a33daa8147d057c55d1d58c050389da7/AndroidManifest.xml:23:5-40:19
-MERGED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a33daa8147d057c55d1d58c050389da7/AndroidManifest.xml:23:5-40:19
-MERGED from [com.google.firebase:firebase-core:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ae2a83aa90e61abc72a13496ea1df790/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-core:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ae2a83aa90e61abc72a13496ea1df790/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/17f28489d58307228f8bb9b6964d401a/AndroidManifest.xml:8:5-16:19
-MERGED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/17f28489d58307228f8bb9b6964d401a/AndroidManifest.xml:8:5-16:19
-MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/52ef76816b915252252e45c1e90c7b0d/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/52ef76816b915252252e45c1e90c7b0d/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-ml-model-interpreter:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/33ca13409be9746ae06d4c33568899fe/AndroidManifest.xml:8:5-16:19
-MERGED from [com.google.firebase:firebase-ml-model-interpreter:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/33ca13409be9746ae06d4c33568899fe/AndroidManifest.xml:8:5-16:19
-MERGED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2adcb0f33d671ee9285c2fce22070540/AndroidManifest.xml:22:5-42:19
-MERGED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2adcb0f33d671ee9285c2fce22070540/AndroidManifest.xml:22:5-42:19
-MERGED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/9b744a94e479dbaf7f5bf1ede28a95fd/AndroidManifest.xml:7:5-15:19
-MERGED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/9b744a94e479dbaf7f5bf1ede28a95fd/AndroidManifest.xml:7:5-15:19
-MERGED from [com.google.firebase:firebase-analytics:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f5b5cf448b22daec967c2df366a2b632/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-analytics:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f5b5cf448b22daec967c2df366a2b632/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/84aa7f17f8329b598fd3f807c6d88699/AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/84aa7f17f8329b598fd3f807c6d88699/AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b868e5f3bc661299eeb17a390cca4340/AndroidManifest.xml:28:5-45:19
-MERGED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b868e5f3bc661299eeb17a390cca4340/AndroidManifest.xml:28:5-45:19
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/74b6aa8428e4215558d1099d9994845d/AndroidManifest.xml:11:5-17:19
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/74b6aa8428e4215558d1099d9994845d/AndroidManifest.xml:11:5-17:19
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f3e2bbc58e3ef87e30af3744bed6ecbd/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f3e2bbc58e3ef87e30af3744bed6ecbd/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.android.gms:play-services-vision:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/49d7dcba2cfd17899f144e0d44b7b4e6/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-vision:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/49d7dcba2cfd17899f144e0d44b7b4e6/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c0ca639ef7048a30a96f5066c8474564/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c0ca639ef7048a30a96f5066c8474564/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/4c0d4014ff163f419eb0264b68001fb4/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/4c0d4014ff163f419eb0264b68001fb4/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/448365f52937a105f327d5f29ad5ecb2/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/448365f52937a105f327d5f29ad5ecb2/AndroidManifest.xml:22:5-20
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/9f59a1bfad974345c4398ef4e5c503b1/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/9f59a1bfad974345c4398ef4e5c503b1/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/64b2eefb6bd5ce45f1773f8e9262d109/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/64b2eefb6bd5ce45f1773f8e9262d109/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/981fc4c99cf8a096b1eb6de6ee43963b/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/981fc4c99cf8a096b1eb6de6ee43963b/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5941e844b434eb31f80d706d644051dc/AndroidManifest.xml:24:5-32:19
-MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5941e844b434eb31f80d706d644051dc/AndroidManifest.xml:24:5-32:19
-MERGED from [com.google.firebase:firebase-installations:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/372c83edf97b18432e86749baf814d3e/AndroidManifest.xml:13:5-21:19
-MERGED from [com.google.firebase:firebase-installations:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/372c83edf97b18432e86749baf814d3e/AndroidManifest.xml:13:5-21:19
-MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/faf1b0a27003585fd6c0dffb1b089728/AndroidManifest.xml:25:5-37:19
-MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/faf1b0a27003585fd6c0dffb1b089728/AndroidManifest.xml:25:5-37:19
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/cde373e1e0bb608f92f33535cdfbe14a/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/cde373e1e0bb608f92f33535cdfbe14a/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ceab3bb6ac81d4bd3197247515392bae/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ceab3bb6ac81d4bd3197247515392bae/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:28:5-53:19
-MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:28:5-53:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/1b3c75836882a5285f24b0f83cc9db53/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/1b3c75836882a5285f24b0f83cc9db53/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/144dfc8c76b951b0a7ee492571f93b43/AndroidManifest.xml:28:5-38:19
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/144dfc8c76b951b0a7ee492571f93b43/AndroidManifest.xml:28:5-38:19
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b1ef493302078c70bd41980eac27b25b/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b1ef493302078c70bd41980eac27b25b/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/1b1b6addf3cb153e418e080b737f5b33/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/1b1b6addf3cb153e418e080b737f5b33/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/093c8d134a5926a5f0333585f66fcde0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/093c8d134a5926a5f0333585f66fcde0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c97e801ad68770a12e803f81ced4903b/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c97e801ad68770a12e803f81ced4903b/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.core:core:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d40e06a153fb63fcf805b9be9f3d78be/AndroidManifest.xml:22:5-89
-MERGED from [androidx.core:core:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d40e06a153fb63fcf805b9be9f3d78be/AndroidManifest.xml:22:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3359f3b26eee5e633a29bb6ecef318bf/AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3359f3b26eee5e633a29bb6ecef318bf/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/eff2049dafcbab6dd0d9461d1feed25b/AndroidManifest.xml:28:5-36:19
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/eff2049dafcbab6dd0d9461d1feed25b/AndroidManifest.xml:28:5-36:19
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d7d7cf9a71c43afe05ce10166548aa4e/AndroidManifest.xml:25:5-39:19
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d7d7cf9a71c43afe05ce10166548aa4e/AndroidManifest.xml:25:5-39:19
-MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6c8ec7ed0dcdc2254311ce329e260af9/AndroidManifest.xml:9:5-20
-MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6c8ec7ed0dcdc2254311ce329e260af9/AndroidManifest.xml:9:5-20
-MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f6eacd2f682e02879eda06d9134f9ecc/AndroidManifest.xml:11:5-20
-MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f6eacd2f682e02879eda06d9134f9ecc/AndroidManifest.xml:11:5-20
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a4ed6c984ac0f6920c2da3c900f68a40/AndroidManifest.xml:54:5-20
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a4ed6c984ac0f6920c2da3c900f68a40/AndroidManifest.xml:54:5-20
-MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/66be803cde9d0b625836743bb41d12cb/AndroidManifest.xml:11:5-20
-MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/66be803cde9d0b625836743bb41d12cb/AndroidManifest.xml:11:5-20
-MERGED from [io.fabric.sdk.android:fabric:1.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5f6f0f9c3e3b4d86b6b0ee228dc2aeef/AndroidManifest.xml:31:5-20
-MERGED from [io.fabric.sdk.android:fabric:1.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5f6f0f9c3e3b4d86b6b0ee228dc2aeef/AndroidManifest.xml:31:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c01ce5d51a38a6663217e5993df9419d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c01ce5d51a38a6663217e5993df9419d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/22f6be965d9ba87f35ab2486567d466e/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/22f6be965d9ba87f35ab2486567d466e/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-core:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6dd18d41805c0db65042f08efd5595fb/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6dd18d41805c0db65042f08efd5595fb/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0c96034b09d85167eccd01434f5ed6fb/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0c96034b09d85167eccd01434f5ed6fb/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/e03f682f595a77879e8e0f4c866a9bf4/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/e03f682f595a77879e8e0f4c866a9bf4/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-ml-model-interpreter:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/727a6498a6407e38575afdf19d47053a/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-ml-model-interpreter:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/727a6498a6407e38575afdf19d47053a/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/e40b3d7cb1f300976b9cec0c038478e7/AndroidManifest.xml:22:5-42:19
+MERGED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/e40b3d7cb1f300976b9cec0c038478e7/AndroidManifest.xml:22:5-42:19
+MERGED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b78a73e8567f2477fa8f90d1da4b5341/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b78a73e8567f2477fa8f90d1da4b5341/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6a168133e40967d84d7b28da11c76675/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6a168133e40967d84d7b28da11c76675/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/68140083cb41e4412aa27144275b50e3/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/68140083cb41e4412aa27144275b50e3/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fe0312a1451bf3d953b87629d49bdb36/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fe0312a1451bf3d953b87629d49bdb36/AndroidManifest.xml:28:5-45:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5c3465f8d17281171da1bf24e31ba4f5/AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5c3465f8d17281171da1bf24e31ba4f5/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0ae958b0d0449490130af2eabf6ed7e6/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0ae958b0d0449490130af2eabf6ed7e6/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0e7c4514e93ed67e0b5f70c4e4110ee7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0e7c4514e93ed67e0b5f70c4e4110ee7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/47614f26dda580828d5d86bbe6e9d244/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/47614f26dda580828d5d86bbe6e9d244/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/faaa8e439b5c56c273cdc83483772fd6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/faaa8e439b5c56c273cdc83483772fd6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/cdc883a97543f6109ad7cbb9394add42/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/cdc883a97543f6109ad7cbb9394add42/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/854f7b8ab48ba45e9be46f207eb55b72/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/854f7b8ab48ba45e9be46f207eb55b72/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/dff53b7ea3053f916f28dc3aa7f4b4b5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/dff53b7ea3053f916f28dc3aa7f4b4b5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/bd81d72e2f8f2f595a37011d1e80f5ee/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/bd81d72e2f8f2f595a37011d1e80f5ee/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/bd283f810b6c8e1ddd614d7f503c8c74/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/bd283f810b6c8e1ddd614d7f503c8c74/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-installations:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a9130ac0a6b37649cae23569accbb1dd/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a9130ac0a6b37649cae23569accbb1dd/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f249d064021cea16b72906d765b5a87a/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f249d064021cea16b72906d765b5a87a/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/351d8f0897d288d68b9ecd9626b10cc7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/351d8f0897d288d68b9ecd9626b10cc7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/cfdca71e2f07920fa66e5bb298ee81cf/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/cfdca71e2f07920fa66e5bb298ee81cf/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2eb1552326cfa24300a4710f3743dae8/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2eb1552326cfa24300a4710f3743dae8/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/53fb29916247300a6fcd2a8f10586d49/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/53fb29916247300a6fcd2a8f10586d49/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a8c17439052b9618e13aa87f7c4e8fa1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a8c17439052b9618e13aa87f7c4e8fa1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6ebdc05b3a274fce9e1751a3f5fc9390/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6ebdc05b3a274fce9e1751a3f5fc9390/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/7b74d04e1851dfdf6a0c059591acd145/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/7b74d04e1851dfdf6a0c059591acd145/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/73f4a3c2021eec05091c734f7637a059/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/73f4a3c2021eec05091c734f7637a059/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/904da2afbfc69e912876dba816f81a49/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/904da2afbfc69e912876dba816f81a49/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/53549d7d40a99b3113bcc13aaf6eb3c3/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/53549d7d40a99b3113bcc13aaf6eb3c3/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3574d267a54c68fbc49ff04c8a71a0ef/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3574d267a54c68fbc49ff04c8a71a0ef/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2e385fa3e96ef71ed0769577208e26a2/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2e385fa3e96ef71ed0769577208e26a2/AndroidManifest.xml:25:5-39:19
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d724456e43a3ee31d94bd8335a414b18/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d724456e43a3ee31d94bd8335a414b18/AndroidManifest.xml:9:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fac95d5f4a62a6776426256551ec9e52/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fac95d5f4a62a6776426256551ec9e52/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/89c749c8ec6e763e79fe378e5c17a9ee/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/89c749c8ec6e763e79fe378e5c17a9ee/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f550cd268ee8fb0af4719ce79ff40ab6/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f550cd268ee8fb0af4719ce79ff40ab6/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ce09ba1727cc03d87599440bf5ff42fd/AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ce09ba1727cc03d87599440bf5ff42fd/AndroidManifest.xml:31:5-20
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d40e06a153fb63fcf805b9be9f3d78be/AndroidManifest.xml:22:18-86
+		ADDED from [androidx.core:core:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/904da2afbfc69e912876dba816f81a49/AndroidManifest.xml:22:18-86
 	android:supportsRtl
 		ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml:13:9-35
 	android:label
@@ -263,162 +263,162 @@ uses-sdk
 INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml
 INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml
-MERGED from [com.google.android.material:material:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/38685527f5c4822d4686ed8fb464d611/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/38685527f5c4822d4686ed8fb464d611/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f9a90f622f3f073a3e14729f73e838d7/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f9a90f622f3f073a3e14729f73e838d7/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/9ad46b6d6c7895f24e69166f1ebc17d0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/9ad46b6d6c7895f24e69166f1ebc17d0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a33daa8147d057c55d1d58c050389da7/AndroidManifest.xml:21:5-44
-MERGED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a33daa8147d057c55d1d58c050389da7/AndroidManifest.xml:21:5-44
-MERGED from [com.google.firebase:firebase-core:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ae2a83aa90e61abc72a13496ea1df790/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-core:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ae2a83aa90e61abc72a13496ea1df790/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/17f28489d58307228f8bb9b6964d401a/AndroidManifest.xml:6:5-44
-MERGED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/17f28489d58307228f8bb9b6964d401a/AndroidManifest.xml:6:5-44
-MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/52ef76816b915252252e45c1e90c7b0d/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/52ef76816b915252252e45c1e90c7b0d/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-ml-model-interpreter:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/33ca13409be9746ae06d4c33568899fe/AndroidManifest.xml:6:5-44
-MERGED from [com.google.firebase:firebase-ml-model-interpreter:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/33ca13409be9746ae06d4c33568899fe/AndroidManifest.xml:6:5-44
-MERGED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2adcb0f33d671ee9285c2fce22070540/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2adcb0f33d671ee9285c2fce22070540/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/9b744a94e479dbaf7f5bf1ede28a95fd/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/9b744a94e479dbaf7f5bf1ede28a95fd/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-analytics:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f5b5cf448b22daec967c2df366a2b632/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-analytics:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f5b5cf448b22daec967c2df366a2b632/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/84aa7f17f8329b598fd3f807c6d88699/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/84aa7f17f8329b598fd3f807c6d88699/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b868e5f3bc661299eeb17a390cca4340/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b868e5f3bc661299eeb17a390cca4340/AndroidManifest.xml:20:5-44
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/74b6aa8428e4215558d1099d9994845d/AndroidManifest.xml:7:5-43
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/74b6aa8428e4215558d1099d9994845d/AndroidManifest.xml:7:5-43
-MERGED from [com.jakewharton:butterknife:10.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/af4c3358c790545bf376036839bffe6e/AndroidManifest.xml:5:5-44
-MERGED from [com.jakewharton:butterknife:10.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/af4c3358c790545bf376036839bffe6e/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f3e2bbc58e3ef87e30af3744bed6ecbd/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f3e2bbc58e3ef87e30af3744bed6ecbd/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/1c9d0b0c3947982496081361600e7174/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/1c9d0b0c3947982496081361600e7174/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-vision:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/49d7dcba2cfd17899f144e0d44b7b4e6/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-vision:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/49d7dcba2cfd17899f144e0d44b7b4e6/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c0ca639ef7048a30a96f5066c8474564/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c0ca639ef7048a30a96f5066c8474564/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/4c0d4014ff163f419eb0264b68001fb4/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/4c0d4014ff163f419eb0264b68001fb4/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/448365f52937a105f327d5f29ad5ecb2/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/448365f52937a105f327d5f29ad5ecb2/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5d7563c36c72a34e57ed7a33c29eaa46/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5d7563c36c72a34e57ed7a33c29eaa46/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/9f59a1bfad974345c4398ef4e5c503b1/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/9f59a1bfad974345c4398ef4e5c503b1/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/64b2eefb6bd5ce45f1773f8e9262d109/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/64b2eefb6bd5ce45f1773f8e9262d109/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/981fc4c99cf8a096b1eb6de6ee43963b/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/981fc4c99cf8a096b1eb6de6ee43963b/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5941e844b434eb31f80d706d644051dc/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5941e844b434eb31f80d706d644051dc/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-installations:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/372c83edf97b18432e86749baf814d3e/AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.firebase:firebase-installations:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/372c83edf97b18432e86749baf814d3e/AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/faf1b0a27003585fd6c0dffb1b089728/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/faf1b0a27003585fd6c0dffb1b089728/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/cb748efb4dd58a0461c80f4ceb2f0326/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/cb748efb4dd58a0461c80f4ceb2f0326/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/cde373e1e0bb608f92f33535cdfbe14a/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/cde373e1e0bb608f92f33535cdfbe14a/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ceab3bb6ac81d4bd3197247515392bae/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ceab3bb6ac81d4bd3197247515392bae/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/1b3c75836882a5285f24b0f83cc9db53/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/1b3c75836882a5285f24b0f83cc9db53/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/144dfc8c76b951b0a7ee492571f93b43/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/144dfc8c76b951b0a7ee492571f93b43/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b1ef493302078c70bd41980eac27b25b/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b1ef493302078c70bd41980eac27b25b/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c232afa048d535e07fb2a30256c997c4/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c232afa048d535e07fb2a30256c997c4/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/1b1b6addf3cb153e418e080b737f5b33/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/1b1b6addf3cb153e418e080b737f5b33/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/093c8d134a5926a5f0333585f66fcde0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/093c8d134a5926a5f0333585f66fcde0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c97e801ad68770a12e803f81ced4903b/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c97e801ad68770a12e803f81ced4903b/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/4fe3bab860153b4db9c8f3402bc3f553/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/4fe3bab860153b4db9c8f3402bc3f553/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/1609df4dbd09f9721fa5bb89ae6233c1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/1609df4dbd09f9721fa5bb89ae6233c1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5a6ea72ee2d321d982570e3063a0ec29/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5a6ea72ee2d321d982570e3063a0ec29/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/8afcd680e9bd9e34dac1b851e1a60955/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/8afcd680e9bd9e34dac1b851e1a60955/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6752672d33cdfde696814d55bce36a11/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6752672d33cdfde696814d55bce36a11/AndroidManifest.xml:20:5-44
-MERGED from [com.jakewharton:butterknife-runtime:10.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3c1743f18ce37a8c1392317b859d92f3/AndroidManifest.xml:5:5-44
-MERGED from [com.jakewharton:butterknife-runtime:10.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3c1743f18ce37a8c1392317b859d92f3/AndroidManifest.xml:5:5-44
-MERGED from [androidx.transition:transition:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/8636137d3e8527c485bfc3f587fc15e8/AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/8636137d3e8527c485bfc3f587fc15e8/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/e4ec74e5c245abab35bd5f889020861e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/e4ec74e5c245abab35bd5f889020861e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/72d4ad9d3d13f5b6cf1dfcd63e531ee1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/72d4ad9d3d13f5b6cf1dfcd63e531ee1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b33dbb50f3aa87cc9a4b8fe23b740854/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b33dbb50f3aa87cc9a4b8fe23b740854/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ee2241ed7aae9385974574cc571329a9/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ee2241ed7aae9385974574cc571329a9/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3f828ffc5251baf89856d33f7286de2f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3f828ffc5251baf89856d33f7286de2f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/bff156adcc7bd8941224875503e4384e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/bff156adcc7bd8941224875503e4384e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/4e0731fa434bd0d623acacf80d767974/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/4e0731fa434bd0d623acacf80d767974/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d31b99fb10687365a843fe6096578775/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d31b99fb10687365a843fe6096578775/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d40e06a153fb63fcf805b9be9f3d78be/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d40e06a153fb63fcf805b9be9f3d78be/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3359f3b26eee5e633a29bb6ecef318bf/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3359f3b26eee5e633a29bb6ecef318bf/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f9eee164b175b90b4dfe1bc86ec8eee9/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f9eee164b175b90b4dfe1bc86ec8eee9/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f755f2c513fc24b17318b05d38e5b978/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f755f2c513fc24b17318b05d38e5b978/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/9c2e1942a12fa765da6acd7f13999949/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/9c2e1942a12fa765da6acd7f13999949/AndroidManifest.xml:19:5-21:41
-MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6a80ce9eb6d403b5ad6d1fc7851df84f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6a80ce9eb6d403b5ad6d1fc7851df84f/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/eff2049dafcbab6dd0d9461d1feed25b/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/eff2049dafcbab6dd0d9461d1feed25b/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d7d7cf9a71c43afe05ce10166548aa4e/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d7d7cf9a71c43afe05ce10166548aa4e/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/de554d1648c0e3d9541c50496ddfadc8/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/de554d1648c0e3d9541c50496ddfadc8/AndroidManifest.xml:19:5-21:41
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/74e2f284797e075b828cf6a508227238/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/74e2f284797e075b828cf6a508227238/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/85f39abf7f6e279308dd712e34cbebe5/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/85f39abf7f6e279308dd712e34cbebe5/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f15a4594029f19877b6b771b48c1614d/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f15a4594029f19877b6b771b48c1614d/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/4b00e396b3a7c3581ddc0a3e1a42430c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/4b00e396b3a7c3581ddc0a3e1a42430c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6b35eafde94757fd2fe95d90ab309524/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6b35eafde94757fd2fe95d90ab309524/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/42a6a96a0104e345c961e10b794d8803/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/42a6a96a0104e345c961e10b794d8803/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/22208251a4a618d8265ff979a3a15f1b/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/22208251a4a618d8265ff979a3a15f1b/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5a8371b71aba724330912c3a1b41f68a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5a8371b71aba724330912c3a1b41f68a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/7c36fdbe1f9c322f2f7d46cf7cff96bd/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/7c36fdbe1f9c322f2f7d46cf7cff96bd/AndroidManifest.xml:20:5-44
-MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6c8ec7ed0dcdc2254311ce329e260af9/AndroidManifest.xml:5:5-7:41
-MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6c8ec7ed0dcdc2254311ce329e260af9/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b83e40ae51aaa299e1631957bf4834f3/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b83e40ae51aaa299e1631957bf4834f3/AndroidManifest.xml:18:5-20:41
-MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f6eacd2f682e02879eda06d9134f9ecc/AndroidManifest.xml:7:5-43
-MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f6eacd2f682e02879eda06d9134f9ecc/AndroidManifest.xml:7:5-43
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a4ed6c984ac0f6920c2da3c900f68a40/AndroidManifest.xml:50:5-43
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a4ed6c984ac0f6920c2da3c900f68a40/AndroidManifest.xml:50:5-43
-MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/66be803cde9d0b625836743bb41d12cb/AndroidManifest.xml:7:5-43
-MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/66be803cde9d0b625836743bb41d12cb/AndroidManifest.xml:7:5-43
-MERGED from [io.fabric.sdk.android:fabric:1.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5f6f0f9c3e3b4d86b6b0ee228dc2aeef/AndroidManifest.xml:27:5-43
-MERGED from [io.fabric.sdk.android:fabric:1.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5f6f0f9c3e3b4d86b6b0ee228dc2aeef/AndroidManifest.xml:27:5-43
+MERGED from [com.google.android.material:material:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c01ce5d51a38a6663217e5993df9419d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c01ce5d51a38a6663217e5993df9419d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ee9d13742e8d70fa1f5863efe2ab3e03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ee9d13742e8d70fa1f5863efe2ab3e03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/89ec27c421af69de4d1b599dce997933/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/89ec27c421af69de4d1b599dce997933/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/22f6be965d9ba87f35ab2486567d466e/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/22f6be965d9ba87f35ab2486567d466e/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-core:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6dd18d41805c0db65042f08efd5595fb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6dd18d41805c0db65042f08efd5595fb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0c96034b09d85167eccd01434f5ed6fb/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0c96034b09d85167eccd01434f5ed6fb/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/e03f682f595a77879e8e0f4c866a9bf4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/e03f682f595a77879e8e0f4c866a9bf4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-model-interpreter:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/727a6498a6407e38575afdf19d47053a/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-model-interpreter:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/727a6498a6407e38575afdf19d47053a/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/e40b3d7cb1f300976b9cec0c038478e7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/e40b3d7cb1f300976b9cec0c038478e7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b78a73e8567f2477fa8f90d1da4b5341/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b78a73e8567f2477fa8f90d1da4b5341/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6a168133e40967d84d7b28da11c76675/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6a168133e40967d84d7b28da11c76675/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/68140083cb41e4412aa27144275b50e3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/68140083cb41e4412aa27144275b50e3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fe0312a1451bf3d953b87629d49bdb36/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fe0312a1451bf3d953b87629d49bdb36/AndroidManifest.xml:20:5-44
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5c3465f8d17281171da1bf24e31ba4f5/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5c3465f8d17281171da1bf24e31ba4f5/AndroidManifest.xml:7:5-43
+MERGED from [com.jakewharton:butterknife:10.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c3572f020ffb479b2104ac03b028c86b/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:10.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c3572f020ffb479b2104ac03b028c86b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0ae958b0d0449490130af2eabf6ed7e6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0ae958b0d0449490130af2eabf6ed7e6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a167abae991fd28dc394d8365cfa867e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a167abae991fd28dc394d8365cfa867e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0e7c4514e93ed67e0b5f70c4e4110ee7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0e7c4514e93ed67e0b5f70c4e4110ee7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/47614f26dda580828d5d86bbe6e9d244/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/47614f26dda580828d5d86bbe6e9d244/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/faaa8e439b5c56c273cdc83483772fd6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/faaa8e439b5c56c273cdc83483772fd6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/cdc883a97543f6109ad7cbb9394add42/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/cdc883a97543f6109ad7cbb9394add42/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3912bfcacfd8d95da0fc2350c28c4d76/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3912bfcacfd8d95da0fc2350c28c4d76/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/854f7b8ab48ba45e9be46f207eb55b72/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/854f7b8ab48ba45e9be46f207eb55b72/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/dff53b7ea3053f916f28dc3aa7f4b4b5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/dff53b7ea3053f916f28dc3aa7f4b4b5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/bd81d72e2f8f2f595a37011d1e80f5ee/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/bd81d72e2f8f2f595a37011d1e80f5ee/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/bd283f810b6c8e1ddd614d7f503c8c74/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/bd283f810b6c8e1ddd614d7f503c8c74/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a9130ac0a6b37649cae23569accbb1dd/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a9130ac0a6b37649cae23569accbb1dd/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f249d064021cea16b72906d765b5a87a/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f249d064021cea16b72906d765b5a87a/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/28ec89c3a77954136b37403f18fdb92c/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/28ec89c3a77954136b37403f18fdb92c/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/351d8f0897d288d68b9ecd9626b10cc7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/351d8f0897d288d68b9ecd9626b10cc7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/cfdca71e2f07920fa66e5bb298ee81cf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/cfdca71e2f07920fa66e5bb298ee81cf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2eb1552326cfa24300a4710f3743dae8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2eb1552326cfa24300a4710f3743dae8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/53fb29916247300a6fcd2a8f10586d49/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/53fb29916247300a6fcd2a8f10586d49/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a8c17439052b9618e13aa87f7c4e8fa1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a8c17439052b9618e13aa87f7c4e8fa1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/efbada8947ef1c73b7334128393763fa/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/efbada8947ef1c73b7334128393763fa/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6ebdc05b3a274fce9e1751a3f5fc9390/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6ebdc05b3a274fce9e1751a3f5fc9390/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/7b74d04e1851dfdf6a0c059591acd145/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/7b74d04e1851dfdf6a0c059591acd145/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/73f4a3c2021eec05091c734f7637a059/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/73f4a3c2021eec05091c734f7637a059/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6835a5fa79b18082b224e5a3d4162ecd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6835a5fa79b18082b224e5a3d4162ecd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b8f905049583f35d8e5532ff7f021e72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b8f905049583f35d8e5532ff7f021e72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2ca2f09ea3149ed33521a7745d91b5ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2ca2f09ea3149ed33521a7745d91b5ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0f10e64742b2af62bce29c9d6fbbd634/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0f10e64742b2af62bce29c9d6fbbd634/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ddc280900b3593082279163a05b37118/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ddc280900b3593082279163a05b37118/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/146954882f62acc78ded4167dd392d03/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/146954882f62acc78ded4167dd392d03/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f05a4b687ab7485700827346bc07557e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f05a4b687ab7485700827346bc07557e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/7cf40c8185f8d6a272fdffa4731a5005/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/7cf40c8185f8d6a272fdffa4731a5005/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/54576b24a28fc09bdd561b88f8ea981b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/54576b24a28fc09bdd561b88f8ea981b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e40714f37260978d7c1ba13dbdd1a9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e40714f37260978d7c1ba13dbdd1a9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f2103b31f839f876d351974562880609/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f2103b31f839f876d351974562880609/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0bf1037135754903a74981e6b1e9adc5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0bf1037135754903a74981e6b1e9adc5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/eda8b57b98bbd2c93ca5db6296f98b3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/eda8b57b98bbd2c93ca5db6296f98b3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3e53526fd9d458940f6eefb832a55f01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3e53526fd9d458940f6eefb832a55f01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/bf9921eb0bf2f1591154b4adea0e02da/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/bf9921eb0bf2f1591154b4adea0e02da/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/904da2afbfc69e912876dba816f81a49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/904da2afbfc69e912876dba816f81a49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/53549d7d40a99b3113bcc13aaf6eb3c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/53549d7d40a99b3113bcc13aaf6eb3c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/847562309d2f4bef80ed910ec5a6a239/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/847562309d2f4bef80ed910ec5a6a239/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/e9b1f66b1c0bc3e1a8152d33e7d60e8c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/e9b1f66b1c0bc3e1a8152d33e7d60e8c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b1e02e3bc3185f4301291b6abbea1268/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b1e02e3bc3185f4301291b6abbea1268/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2fcce16ca1c95e1c83cc74955d6e0927/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2fcce16ca1c95e1c83cc74955d6e0927/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3574d267a54c68fbc49ff04c8a71a0ef/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3574d267a54c68fbc49ff04c8a71a0ef/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2e385fa3e96ef71ed0769577208e26a2/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2e385fa3e96ef71ed0769577208e26a2/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/51d9ee8a1343913261b53ba7c7d5d3dd/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/51d9ee8a1343913261b53ba7c7d5d3dd/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0387b10a65c6c4900c6285291849db3d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0387b10a65c6c4900c6285291849db3d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fdda04438f74b6cfb79d9a95b115bc26/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fdda04438f74b6cfb79d9a95b115bc26/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/40632fb19b86459dc85a9e8c60861c43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/40632fb19b86459dc85a9e8c60861c43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a718383f38d635d73115367b133327a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a718383f38d635d73115367b133327a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f0c48f7df54cc547c46a0585efb8312e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f0c48f7df54cc547c46a0585efb8312e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/1f428b1c6035865f4698f57d6bc8855b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/1f428b1c6035865f4698f57d6bc8855b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f6a5f4c8c5bd839ef7e16f815b0ab6c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f6a5f4c8c5bd839ef7e16f815b0ab6c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/50b5cfb6729aa87dc2ce2f7d50cfa233/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/50b5cfb6729aa87dc2ce2f7d50cfa233/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/8218791228c16de720fad7320e62bc9b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/8218791228c16de720fad7320e62bc9b/AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d724456e43a3ee31d94bd8335a414b18/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d724456e43a3ee31d94bd8335a414b18/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/945aea02d5295235c734869c4b612540/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/945aea02d5295235c734869c4b612540/AndroidManifest.xml:18:5-20:41
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fac95d5f4a62a6776426256551ec9e52/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fac95d5f4a62a6776426256551ec9e52/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/89c749c8ec6e763e79fe378e5c17a9ee/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/89c749c8ec6e763e79fe378e5c17a9ee/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f550cd268ee8fb0af4719ce79ff40ab6/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f550cd268ee8fb0af4719ce79ff40ab6/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ce09ba1727cc03d87599440bf5ff42fd/AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/ce09ba1727cc03d87599440bf5ff42fd/AndroidManifest.xml:27:5-43
 INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml
 INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -430,256 +430,256 @@ INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/Androi
 		ADDED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/AndroidManifest.xml
 activity#com.google.firebase.auth.internal.FederatedSignInActivity
-ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a33daa8147d057c55d1d58c050389da7/AndroidManifest.xml:24:9-31:50
+ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/22f6be965d9ba87f35ab2486567d466e/AndroidManifest.xml:24:9-31:50
 	android:excludeFromRecents
-		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a33daa8147d057c55d1d58c050389da7/AndroidManifest.xml:26:13-46
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/22f6be965d9ba87f35ab2486567d466e/AndroidManifest.xml:26:13-46
 	android:launchMode
-		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a33daa8147d057c55d1d58c050389da7/AndroidManifest.xml:28:13-44
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/22f6be965d9ba87f35ab2486567d466e/AndroidManifest.xml:28:13-44
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a33daa8147d057c55d1d58c050389da7/AndroidManifest.xml:27:13-36
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/22f6be965d9ba87f35ab2486567d466e/AndroidManifest.xml:27:13-36
 	android:permission
-		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a33daa8147d057c55d1d58c050389da7/AndroidManifest.xml:29:13-102
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/22f6be965d9ba87f35ab2486567d466e/AndroidManifest.xml:29:13-102
 	android:theme
-		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a33daa8147d057c55d1d58c050389da7/AndroidManifest.xml:30:13-72
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/22f6be965d9ba87f35ab2486567d466e/AndroidManifest.xml:30:13-72
 	tools:replace
-		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a33daa8147d057c55d1d58c050389da7/AndroidManifest.xml:31:13-47
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/22f6be965d9ba87f35ab2486567d466e/AndroidManifest.xml:31:13-47
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a33daa8147d057c55d1d58c050389da7/AndroidManifest.xml:25:13-85
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/22f6be965d9ba87f35ab2486567d466e/AndroidManifest.xml:25:13-85
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a33daa8147d057c55d1d58c050389da7/AndroidManifest.xml:33:9-39:19
-MERGED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/17f28489d58307228f8bb9b6964d401a/AndroidManifest.xml:9:9-15:19
-MERGED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/17f28489d58307228f8bb9b6964d401a/AndroidManifest.xml:9:9-15:19
-MERGED from [com.google.firebase:firebase-ml-model-interpreter:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/33ca13409be9746ae06d4c33568899fe/AndroidManifest.xml:9:9-15:19
-MERGED from [com.google.firebase:firebase-ml-model-interpreter:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/33ca13409be9746ae06d4c33568899fe/AndroidManifest.xml:9:9-15:19
-MERGED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2adcb0f33d671ee9285c2fce22070540/AndroidManifest.xml:35:9-41:19
-MERGED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2adcb0f33d671ee9285c2fce22070540/AndroidManifest.xml:35:9-41:19
-MERGED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/9b744a94e479dbaf7f5bf1ede28a95fd/AndroidManifest.xml:8:9-14:19
-MERGED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/9b744a94e479dbaf7f5bf1ede28a95fd/AndroidManifest.xml:8:9-14:19
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/84aa7f17f8329b598fd3f807c6d88699/AndroidManifest.xml:27:9-33:19
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/84aa7f17f8329b598fd3f807c6d88699/AndroidManifest.xml:27:9-33:19
-MERGED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b868e5f3bc661299eeb17a390cca4340/AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b868e5f3bc661299eeb17a390cca4340/AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5941e844b434eb31f80d706d644051dc/AndroidManifest.xml:25:9-31:19
-MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5941e844b434eb31f80d706d644051dc/AndroidManifest.xml:25:9-31:19
-MERGED from [com.google.firebase:firebase-installations:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/372c83edf97b18432e86749baf814d3e/AndroidManifest.xml:14:9-20:19
-MERGED from [com.google.firebase:firebase-installations:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/372c83edf97b18432e86749baf814d3e/AndroidManifest.xml:14:9-20:19
-MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/faf1b0a27003585fd6c0dffb1b089728/AndroidManifest.xml:32:9-36:35
-MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/faf1b0a27003585fd6c0dffb1b089728/AndroidManifest.xml:32:9-36:35
+ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/22f6be965d9ba87f35ab2486567d466e/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0c96034b09d85167eccd01434f5ed6fb/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0c96034b09d85167eccd01434f5ed6fb/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-ml-model-interpreter:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/727a6498a6407e38575afdf19d47053a/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-ml-model-interpreter:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/727a6498a6407e38575afdf19d47053a/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/e40b3d7cb1f300976b9cec0c038478e7/AndroidManifest.xml:35:9-41:19
+MERGED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/e40b3d7cb1f300976b9cec0c038478e7/AndroidManifest.xml:35:9-41:19
+MERGED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b78a73e8567f2477fa8f90d1da4b5341/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b78a73e8567f2477fa8f90d1da4b5341/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/68140083cb41e4412aa27144275b50e3/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/68140083cb41e4412aa27144275b50e3/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fe0312a1451bf3d953b87629d49bdb36/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fe0312a1451bf3d953b87629d49bdb36/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/bd283f810b6c8e1ddd614d7f503c8c74/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/bd283f810b6c8e1ddd614d7f503c8c74/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-installations:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a9130ac0a6b37649cae23569accbb1dd/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a9130ac0a6b37649cae23569accbb1dd/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f249d064021cea16b72906d765b5a87a/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f249d064021cea16b72906d765b5a87a/AndroidManifest.xml:32:9-36:35
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a33daa8147d057c55d1d58c050389da7/AndroidManifest.xml:35:13-37
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/22f6be965d9ba87f35ab2486567d466e/AndroidManifest.xml:35:13-37
 	tools:targetApi
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/faf1b0a27003585fd6c0dffb1b089728/AndroidManifest.xml:36:13-32
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f249d064021cea16b72906d765b5a87a/AndroidManifest.xml:36:13-32
 	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/faf1b0a27003585fd6c0dffb1b089728/AndroidManifest.xml:34:13-43
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f249d064021cea16b72906d765b5a87a/AndroidManifest.xml:34:13-43
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a33daa8147d057c55d1d58c050389da7/AndroidManifest.xml:34:13-84
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/22f6be965d9ba87f35ab2486567d466e/AndroidManifest.xml:34:13-84
 meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
-ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a33daa8147d057c55d1d58c050389da7/AndroidManifest.xml:36:13-38:85
+ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/22f6be965d9ba87f35ab2486567d466e/AndroidManifest.xml:36:13-38:85
 	android:value
-		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a33daa8147d057c55d1d58c050389da7/AndroidManifest.xml:38:17-82
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/22f6be965d9ba87f35ab2486567d466e/AndroidManifest.xml:38:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a33daa8147d057c55d1d58c050389da7/AndroidManifest.xml:37:17-109
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/22f6be965d9ba87f35ab2486567d466e/AndroidManifest.xml:37:17-109
 meta-data#com.google.firebase.components:com.google.firebase.ml.vision.VisionRegistrar
-ADDED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/17f28489d58307228f8bb9b6964d401a/AndroidManifest.xml:12:13-14:85
+ADDED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0c96034b09d85167eccd01434f5ed6fb/AndroidManifest.xml:12:13-14:85
 	android:value
-		ADDED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/17f28489d58307228f8bb9b6964d401a/AndroidManifest.xml:14:17-82
+		ADDED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0c96034b09d85167eccd01434f5ed6fb/AndroidManifest.xml:14:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/17f28489d58307228f8bb9b6964d401a/AndroidManifest.xml:13:17-108
+		ADDED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/0c96034b09d85167eccd01434f5ed6fb/AndroidManifest.xml:13:17-108
 meta-data#com.google.firebase.components:com.google.firebase.ml.custom.CustomModelRegistrar
-ADDED from [com.google.firebase:firebase-ml-model-interpreter:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/33ca13409be9746ae06d4c33568899fe/AndroidManifest.xml:12:13-14:85
+ADDED from [com.google.firebase:firebase-ml-model-interpreter:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/727a6498a6407e38575afdf19d47053a/AndroidManifest.xml:12:13-14:85
 	android:value
-		ADDED from [com.google.firebase:firebase-ml-model-interpreter:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/33ca13409be9746ae06d4c33568899fe/AndroidManifest.xml:14:17-82
+		ADDED from [com.google.firebase:firebase-ml-model-interpreter:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/727a6498a6407e38575afdf19d47053a/AndroidManifest.xml:14:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-ml-model-interpreter:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/33ca13409be9746ae06d4c33568899fe/AndroidManifest.xml:13:17-113
+		ADDED from [com.google.firebase:firebase-ml-model-interpreter:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/727a6498a6407e38575afdf19d47053a/AndroidManifest.xml:13:17-113
 service#com.google.firebase.messaging.FirebaseMessagingService
-ADDED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2adcb0f33d671ee9285c2fce22070540/AndroidManifest.xml:28:9-34:19
+ADDED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/e40b3d7cb1f300976b9cec0c038478e7/AndroidManifest.xml:28:9-34:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2adcb0f33d671ee9285c2fce22070540/AndroidManifest.xml:30:13-37
+		ADDED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/e40b3d7cb1f300976b9cec0c038478e7/AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2adcb0f33d671ee9285c2fce22070540/AndroidManifest.xml:29:13-82
+		ADDED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/e40b3d7cb1f300976b9cec0c038478e7/AndroidManifest.xml:29:13-82
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2adcb0f33d671ee9285c2fce22070540/AndroidManifest.xml:31:13-33:29
+ADDED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/e40b3d7cb1f300976b9cec0c038478e7/AndroidManifest.xml:31:13-33:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2adcb0f33d671ee9285c2fce22070540/AndroidManifest.xml:31:28-51
+		ADDED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/e40b3d7cb1f300976b9cec0c038478e7/AndroidManifest.xml:31:28-51
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2adcb0f33d671ee9285c2fce22070540/AndroidManifest.xml:32:17-78
+ADDED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/e40b3d7cb1f300976b9cec0c038478e7/AndroidManifest.xml:32:17-78
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2adcb0f33d671ee9285c2fce22070540/AndroidManifest.xml:32:25-75
+		ADDED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/e40b3d7cb1f300976b9cec0c038478e7/AndroidManifest.xml:32:25-75
 meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
-ADDED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2adcb0f33d671ee9285c2fce22070540/AndroidManifest.xml:38:13-40:85
+ADDED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/e40b3d7cb1f300976b9cec0c038478e7/AndroidManifest.xml:38:13-40:85
 	android:value
-		ADDED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2adcb0f33d671ee9285c2fce22070540/AndroidManifest.xml:40:17-82
+		ADDED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/e40b3d7cb1f300976b9cec0c038478e7/AndroidManifest.xml:40:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2adcb0f33d671ee9285c2fce22070540/AndroidManifest.xml:39:17-119
+		ADDED from [com.google.firebase:firebase-messaging:20.1.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/e40b3d7cb1f300976b9cec0c038478e7/AndroidManifest.xml:39:17-119
 meta-data#com.google.firebase.components:com.google.firebase.ml.common.CommonComponentRegistrar
-ADDED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/9b744a94e479dbaf7f5bf1ede28a95fd/AndroidManifest.xml:11:13-13:85
+ADDED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b78a73e8567f2477fa8f90d1da4b5341/AndroidManifest.xml:11:13-13:85
 	android:value
-		ADDED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/9b744a94e479dbaf7f5bf1ede28a95fd/AndroidManifest.xml:13:17-82
+		ADDED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b78a73e8567f2477fa8f90d1da4b5341/AndroidManifest.xml:13:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/9b744a94e479dbaf7f5bf1ede28a95fd/AndroidManifest.xml:12:17-117
+		ADDED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b78a73e8567f2477fa8f90d1da4b5341/AndroidManifest.xml:12:17-117
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/84aa7f17f8329b598fd3f807c6d88699/AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b868e5f3bc661299eeb17a390cca4340/AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b868e5f3bc661299eeb17a390cca4340/AndroidManifest.xml:24:5-68
-MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/144dfc8c76b951b0a7ee492571f93b43/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/144dfc8c76b951b0a7ee492571f93b43/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c232afa048d535e07fb2a30256c997c4/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c232afa048d535e07fb2a30256c997c4/AndroidManifest.xml:25:5-68
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/68140083cb41e4412aa27144275b50e3/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fe0312a1451bf3d953b87629d49bdb36/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fe0312a1451bf3d953b87629d49bdb36/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/53fb29916247300a6fcd2a8f10586d49/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/53fb29916247300a6fcd2a8f10586d49/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/efbada8947ef1c73b7334128393763fa/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/efbada8947ef1c73b7334128393763fa/AndroidManifest.xml:25:5-68
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/84aa7f17f8329b598fd3f807c6d88699/AndroidManifest.xml:24:22-65
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/68140083cb41e4412aa27144275b50e3/AndroidManifest.xml:24:22-65
 meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
-ADDED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/84aa7f17f8329b598fd3f807c6d88699/AndroidManifest.xml:30:13-32:85
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/68140083cb41e4412aa27144275b50e3/AndroidManifest.xml:30:13-32:85
 	android:value
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/84aa7f17f8329b598fd3f807c6d88699/AndroidManifest.xml:32:17-82
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/68140083cb41e4412aa27144275b50e3/AndroidManifest.xml:32:17-82
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/84aa7f17f8329b598fd3f807c6d88699/AndroidManifest.xml:31:17-139
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/68140083cb41e4412aa27144275b50e3/AndroidManifest.xml:31:17-139
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b868e5f3bc661299eeb17a390cca4340/AndroidManifest.xml:26:5-82
+ADDED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fe0312a1451bf3d953b87629d49bdb36/AndroidManifest.xml:26:5-82
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b868e5f3bc661299eeb17a390cca4340/AndroidManifest.xml:26:22-79
+		ADDED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fe0312a1451bf3d953b87629d49bdb36/AndroidManifest.xml:26:22-79
 meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
-ADDED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b868e5f3bc661299eeb17a390cca4340/AndroidManifest.xml:32:13-34:85
+ADDED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fe0312a1451bf3d953b87629d49bdb36/AndroidManifest.xml:32:13-34:85
 	android:value
-		ADDED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b868e5f3bc661299eeb17a390cca4340/AndroidManifest.xml:34:17-82
+		ADDED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fe0312a1451bf3d953b87629d49bdb36/AndroidManifest.xml:34:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b868e5f3bc661299eeb17a390cca4340/AndroidManifest.xml:33:17-96
+		ADDED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fe0312a1451bf3d953b87629d49bdb36/AndroidManifest.xml:33:17-96
 receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b868e5f3bc661299eeb17a390cca4340/AndroidManifest.xml:37:9-44:20
+ADDED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fe0312a1451bf3d953b87629d49bdb36/AndroidManifest.xml:37:9-44:20
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b868e5f3bc661299eeb17a390cca4340/AndroidManifest.xml:39:13-36
+		ADDED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fe0312a1451bf3d953b87629d49bdb36/AndroidManifest.xml:39:13-36
 	android:permission
-		ADDED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b868e5f3bc661299eeb17a390cca4340/AndroidManifest.xml:40:13-73
+		ADDED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fe0312a1451bf3d953b87629d49bdb36/AndroidManifest.xml:40:13-73
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b868e5f3bc661299eeb17a390cca4340/AndroidManifest.xml:38:13-78
+		ADDED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fe0312a1451bf3d953b87629d49bdb36/AndroidManifest.xml:38:13-78
 intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b868e5f3bc661299eeb17a390cca4340/AndroidManifest.xml:41:13-43:29
+ADDED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fe0312a1451bf3d953b87629d49bdb36/AndroidManifest.xml:41:13-43:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b868e5f3bc661299eeb17a390cca4340/AndroidManifest.xml:42:17-81
+ADDED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fe0312a1451bf3d953b87629d49bdb36/AndroidManifest.xml:42:17-81
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/b868e5f3bc661299eeb17a390cca4340/AndroidManifest.xml:42:25-78
+		ADDED from [com.google.firebase:firebase-iid:20.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/fe0312a1451bf3d953b87629d49bdb36/AndroidManifest.xml:42:25-78
 provider#com.crashlytics.android.CrashlyticsInitProvider
-ADDED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/74b6aa8428e4215558d1099d9994845d/AndroidManifest.xml:12:9-16:39
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5c3465f8d17281171da1bf24e31ba4f5/AndroidManifest.xml:12:9-16:39
 	android:authorities
-		ADDED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/74b6aa8428e4215558d1099d9994845d/AndroidManifest.xml:14:13-75
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5c3465f8d17281171da1bf24e31ba4f5/AndroidManifest.xml:14:13-75
 	android:exported
-		ADDED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/74b6aa8428e4215558d1099d9994845d/AndroidManifest.xml:15:13-37
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5c3465f8d17281171da1bf24e31ba4f5/AndroidManifest.xml:15:13-37
 	android:initOrder
-		ADDED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/74b6aa8428e4215558d1099d9994845d/AndroidManifest.xml:16:13-36
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5c3465f8d17281171da1bf24e31ba4f5/AndroidManifest.xml:16:13-36
 	android:name
-		ADDED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/74b6aa8428e4215558d1099d9994845d/AndroidManifest.xml:13:13-75
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.7.1] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5c3465f8d17281171da1bf24e31ba4f5/AndroidManifest.xml:13:13-75
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/981fc4c99cf8a096b1eb6de6ee43963b/AndroidManifest.xml:23:9-26:75
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/bd81d72e2f8f2f595a37011d1e80f5ee/AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/981fc4c99cf8a096b1eb6de6ee43963b/AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/bd81d72e2f8f2f595a37011d1e80f5ee/AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/981fc4c99cf8a096b1eb6de6ee43963b/AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/bd81d72e2f8f2f595a37011d1e80f5ee/AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/981fc4c99cf8a096b1eb6de6ee43963b/AndroidManifest.xml:24:13-79
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/bd81d72e2f8f2f595a37011d1e80f5ee/AndroidManifest.xml:24:13-79
 meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
-ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5941e844b434eb31f80d706d644051dc/AndroidManifest.xml:28:13-30:85
+ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/bd283f810b6c8e1ddd614d7f503c8c74/AndroidManifest.xml:28:13-30:85
 	android:value
-		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5941e844b434eb31f80d706d644051dc/AndroidManifest.xml:30:17-82
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/bd283f810b6c8e1ddd614d7f503c8c74/AndroidManifest.xml:30:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/5941e844b434eb31f80d706d644051dc/AndroidManifest.xml:29:17-115
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/bd283f810b6c8e1ddd614d7f503c8c74/AndroidManifest.xml:29:17-115
 meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
-ADDED from [com.google.firebase:firebase-installations:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/372c83edf97b18432e86749baf814d3e/AndroidManifest.xml:17:13-19:85
+ADDED from [com.google.firebase:firebase-installations:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a9130ac0a6b37649cae23569accbb1dd/AndroidManifest.xml:17:13-19:85
 	android:value
-		ADDED from [com.google.firebase:firebase-installations:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/372c83edf97b18432e86749baf814d3e/AndroidManifest.xml:19:17-82
+		ADDED from [com.google.firebase:firebase-installations:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a9130ac0a6b37649cae23569accbb1dd/AndroidManifest.xml:19:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-installations:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/372c83edf97b18432e86749baf814d3e/AndroidManifest.xml:18:17-127
+		ADDED from [com.google.firebase:firebase-installations:16.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a9130ac0a6b37649cae23569accbb1dd/AndroidManifest.xml:18:17-127
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/faf1b0a27003585fd6c0dffb1b089728/AndroidManifest.xml:26:9-30:39
+ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f249d064021cea16b72906d765b5a87a/AndroidManifest.xml:26:9-30:39
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/faf1b0a27003585fd6c0dffb1b089728/AndroidManifest.xml:28:13-72
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f249d064021cea16b72906d765b5a87a/AndroidManifest.xml:28:13-72
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/faf1b0a27003585fd6c0dffb1b089728/AndroidManifest.xml:29:13-37
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f249d064021cea16b72906d765b5a87a/AndroidManifest.xml:29:13-37
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/faf1b0a27003585fd6c0dffb1b089728/AndroidManifest.xml:30:13-36
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f249d064021cea16b72906d765b5a87a/AndroidManifest.xml:30:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/faf1b0a27003585fd6c0dffb1b089728/AndroidManifest.xml:27:13-77
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/f249d064021cea16b72906d765b5a87a/AndroidManifest.xml:27:13-77
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
-ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/144dfc8c76b951b0a7ee492571f93b43/AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/144dfc8c76b951b0a7ee492571f93b43/AndroidManifest.xml:26:5-110
+ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/53fb29916247300a6fcd2a8f10586d49/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/53fb29916247300a6fcd2a8f10586d49/AndroidManifest.xml:26:5-110
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:26:22-107
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:26:22-107
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:29:9-33:20
+ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:29:9-33:20
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:31:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:31:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:32:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:30:13-85
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:30:13-85
 receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:34:9-42:20
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/144dfc8c76b951b0a7ee492571f93b43/AndroidManifest.xml:29:9-37:20
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/144dfc8c76b951b0a7ee492571f93b43/AndroidManifest.xml:29:9-37:20
+ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/53fb29916247300a6fcd2a8f10586d49/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/53fb29916247300a6fcd2a8f10586d49/AndroidManifest.xml:29:9-37:20
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:36:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:36:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:37:13-36
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:37:13-36
 	android:permission
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:38:13-69
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:38:13-69
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:35:13-100
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:35:13-100
 intent-filter#action:name:com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:39:13-41:29
+ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:39:13-41:29
 action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:40:17-79
+ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:40:17-79
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:40:25-76
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:40:25-76
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:44:9-47:40
+ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:44:9-47:40
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:46:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:46:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:47:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:47:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:45:13-84
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:45:13-84
 service#com.google.android.gms.measurement.AppMeasurementJobService
-ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:48:9-52:72
+ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:48:9-52:72
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:50:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:50:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:51:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:51:13-37
 	android:permission
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:52:13-69
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:52:13-69
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/6e016d26e7babf0974a8a82039f121c6/AndroidManifest.xml:49:13-87
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/a1fb39fc3b77d583e13dfe3cfb20353e/AndroidManifest.xml:49:13-87
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c97e801ad68770a12e803f81ced4903b/AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/73f4a3c2021eec05091c734f7637a059/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c97e801ad68770a12e803f81ced4903b/AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/73f4a3c2021eec05091c734f7637a059/AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/c97e801ad68770a12e803f81ced4903b/AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/73f4a3c2021eec05091c734f7637a059/AndroidManifest.xml:24:13-58
 service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
-ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/eff2049dafcbab6dd0d9461d1feed25b/AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d7d7cf9a71c43afe05ce10166548aa4e/AndroidManifest.xml:36:9-38:40
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d7d7cf9a71c43afe05ce10166548aa4e/AndroidManifest.xml:36:9-38:40
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3574d267a54c68fbc49ff04c8a71a0ef/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2e385fa3e96ef71ed0769577208e26a2/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2e385fa3e96ef71ed0769577208e26a2/AndroidManifest.xml:36:9-38:40
 	android:exported
-		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/eff2049dafcbab6dd0d9461d1feed25b/AndroidManifest.xml:31:13-37
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3574d267a54c68fbc49ff04c8a71a0ef/AndroidManifest.xml:31:13-37
 	android:name
-		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/eff2049dafcbab6dd0d9461d1feed25b/AndroidManifest.xml:30:13-103
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3574d267a54c68fbc49ff04c8a71a0ef/AndroidManifest.xml:30:13-103
 meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
-ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/eff2049dafcbab6dd0d9461d1feed25b/AndroidManifest.xml:32:13-34:39
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3574d267a54c68fbc49ff04c8a71a0ef/AndroidManifest.xml:32:13-34:39
 	android:value
-		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/eff2049dafcbab6dd0d9461d1feed25b/AndroidManifest.xml:34:17-36
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3574d267a54c68fbc49ff04c8a71a0ef/AndroidManifest.xml:34:17-36
 	android:name
-		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/eff2049dafcbab6dd0d9461d1feed25b/AndroidManifest.xml:33:17-94
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/3574d267a54c68fbc49ff04c8a71a0ef/AndroidManifest.xml:33:17-94
 service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
-ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d7d7cf9a71c43afe05ce10166548aa4e/AndroidManifest.xml:26:9-30:19
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2e385fa3e96ef71ed0769577208e26a2/AndroidManifest.xml:26:9-30:19
 	android:exported
-		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d7d7cf9a71c43afe05ce10166548aa4e/AndroidManifest.xml:28:13-37
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2e385fa3e96ef71ed0769577208e26a2/AndroidManifest.xml:28:13-37
 	android:permission
-		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d7d7cf9a71c43afe05ce10166548aa4e/AndroidManifest.xml:29:13-69
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2e385fa3e96ef71ed0769577208e26a2/AndroidManifest.xml:29:13-69
 	android:name
-		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d7d7cf9a71c43afe05ce10166548aa4e/AndroidManifest.xml:27:13-117
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2e385fa3e96ef71ed0769577208e26a2/AndroidManifest.xml:27:13-117
 receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
-ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d7d7cf9a71c43afe05ce10166548aa4e/AndroidManifest.xml:32:9-34:40
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2e385fa3e96ef71ed0769577208e26a2/AndroidManifest.xml:32:9-34:40
 	android:exported
-		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d7d7cf9a71c43afe05ce10166548aa4e/AndroidManifest.xml:34:13-37
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2e385fa3e96ef71ed0769577208e26a2/AndroidManifest.xml:34:13-37
 	android:name
-		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/d7d7cf9a71c43afe05ce10166548aa4e/AndroidManifest.xml:33:13-132
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/skycore-21/.gradle/caches/transforms-2/files-2.1/2e385fa3e96ef71ed0769577208e26a2/AndroidManifest.xml:33:13-132
