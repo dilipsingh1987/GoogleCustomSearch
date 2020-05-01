@@ -18,7 +18,7 @@ jobs:
       - name: Make gradlew executable
         run: chmod +x ./gradlew
       - name: build release
-        run:  bash ./gradlew assembleRelease
+        run:  bash ./gradlew assembleRelease --status
 
       - name: Deploy app distribution
         run: bash ./gradlew appDistributionUploadRelease
