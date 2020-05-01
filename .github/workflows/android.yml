@@ -18,14 +18,11 @@ jobs:
       - name: Make gradlew executable
         run: chmod +x ./gradlew
       - name: build release
-        run:  ./gradlew assembleDebug
-      - name: Firebase Deploy
-        run: |
-        sudo npm install -g firebase-tools
-        firebase deploy --token ${{ secrets.FIREBASE_TOKEN }}
+        run:  bash ./gradlew assembleDebug --status
+
       - name: upload artifact to Firebase App Distribution
         uses: wzieba/Firebase-Distribution-Github-Action@v1.2.1
         with:
-          appId: 1:412851804939:android:64b228273d89418421e00e
-          token: 1//0ghYvxXwE3UYhCgYIARAAGBASNwF-L9IrKU3IwaHD7vgEVvkODCd08sOi2XhJtUtXDGZQZnxiKbYBh4Jd2oUAa-YjbYkgB-Oa2l4
+          appId: ${{secrets.FIREBASE_APP_ID}}
+          token: ${{secrets.FIREBASE_TOKEN}}
           file: /Users/skycore-21/Documents/GoogleCustomSearch/app/build/outputs/apk/debug/app-debug.apk
