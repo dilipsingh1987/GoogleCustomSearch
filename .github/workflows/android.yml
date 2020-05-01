@@ -20,8 +20,9 @@ jobs:
       - name: build release
         run:  bash ./gradlew assembleDebug --status
 
-      - name: Upload APK
-        uses: actions/upload-artifact@v1
+      - name: upload artifact to Firebase App Distribution
+        uses: wzieba/Firebase-Distribution-Github-Action@v1.2.1
         with:
-          name: apk
-          path: /app/build/outputs/apk/.debug/app-debug.apk
+          appId: 1:412851804939:android:64b228273d89418421e00e
+          token: AAAAYB_imws:APA91bGaTWKS-vZMS0lmb7kIvMPsG1mr7EnSqhki3NtPVDcWLzHZfxYbjzsom-Z_QU7k1lkc5oC6xsPhJkerTbVw_nxbZFrXZF6rfpQ7AlxU-LF8dD1zqQ2aOObex_Zv1vXubIukBXPI
+          file: "/Users/skycore-21/Documents/GoogleCustomSearch/app/build/outputs/apk/debug/app-debug.apk"
