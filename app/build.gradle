@@ -15,10 +15,10 @@ android {
 
     signingConfigs {
         release {
-            storeFile file('GoogleCustomSearchKeystore.jks')
             storePassword "GoogleCustomSearch"
             keyAlias "GoogleCustomSearch"
             keyPassword "GoogleCustomSearch"
+            storeFile file('GoogleCustomSearchKeystore.jks')
         }
 
     }
