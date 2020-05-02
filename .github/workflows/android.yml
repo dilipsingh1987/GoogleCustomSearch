@@ -5,11 +5,12 @@ on:
   push:
     branches:
       - master
+
 jobs:
   build-android:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      -uses: actions/checkout@v1
       -run: |
           echo "${{ secrets.RELEASE_KEYSTORE }}" > GoogleCustomSearchKeystore.jks.asc
           gpg -d --passphrase "${{ secrets.RELEASE_KEYSTORE_PASSPHRASE }}" --batch GoogleCustomSearchKeystore.jks.asc > app/GoogleCustomSearchKeystore.jks
