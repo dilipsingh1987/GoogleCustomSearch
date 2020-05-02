@@ -18,7 +18,7 @@ android {
             storePassword "GoogleCustomSearch"
             keyAlias "GoogleCustomSearch"
             keyPassword "GoogleCustomSearch"
-            storeFile file("${rootDir.absolutePath}/GoogleCustomSearchKeystore.jks")
+            storeFile file("/Users/skycore-21/Documents/GoogleCustomSearch/app/GoogleCustomSearchKeystore.jks")
         }
 
     }
@@ -28,7 +28,7 @@ android {
             signingConfig signingConfigs.release
             firebaseAppDistribution {
                 appId = "1:412851804939:android:64b228273d89418421e00e"
-                serviceCredentialsFile = "${rootDir.absolutePath}/firebase-admin-sdk.json"
+                serviceCredentialsFile = "/Users/skycore-21/Documents/GoogleCustomSearch/app/firebase-admin-sdk.json"
             }
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
