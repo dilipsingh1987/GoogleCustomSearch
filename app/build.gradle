@@ -13,22 +13,22 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
-   /* signingConfigs {
+    signingConfigs {
         release {
             storePassword "GoogleCustomSearch"
             keyAlias "GoogleCustomSearch"
             keyPassword "GoogleCustomSearch"
-            storeFile file("./src/main/GoogleCustomSearchKeystore.jks")
+            storeFile file("${rootDir.absolutePath}/GoogleCustomSearchKeystore.jks")
         }
 
-    }*/
+    }
 
     buildTypes {
         release {
-            //signingConfig signingConfigs.release
+            signingConfig signingConfigs.release
             firebaseAppDistribution {
                 appId = "1:412851804939:android:64b228273d89418421e00e"
-              //  serviceCredentialsFile = "./firebase-admin-sdk.json"
+                serviceCredentialsFile = "${rootDir.absolutePath}/firebase-admin-sdk.json"
             }
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
