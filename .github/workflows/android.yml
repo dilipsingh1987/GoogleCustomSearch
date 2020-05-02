@@ -10,9 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - name: restoreReleasekeystore
-        run: |
-          echo "${{ secrets.RELEASE_KEYSTORE }}" > GoogleCustomSearchKeystore.jks.asc
-          gpg -d --passphrase "${{ secrets.RELEASE_KEYSTORE_PASSPHRASE }}" --batch GoogleCustomSearchKeystore.jks.asc > app/GoogleCustomSearchKeystore.jks
+        - name: restoreReleasekeystore
+          run: |
+            echo "${{ secrets.RELEASE_KEYSTORE }}" > GoogleCustomSearchKeystore.jks.asc
+            gpg -d --passphrase "${{ secrets.RELEASE_KEYSTORE_PASSPHRASE }}" --batch GoogleCustomSearchKeystore.jks.asc > app/GoogleCustomSearchKeystore.jks
+
+        - name: build release
+        run:  bash ./gradlew assembleRelease
+      - name: Deploy app distribution
+        run: bash ./gradlew appDistributionUploadRelease
 
 
