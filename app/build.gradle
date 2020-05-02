@@ -28,7 +28,7 @@ android {
             //signingConfig signingConfigs.release
             firebaseAppDistribution {
                 appId = "1:412851804939:android:64b228273d89418421e00e"
-                serviceCredentialsFile = "./firebase-admin-sdk.json"
+                serviceCredentialsFile = "/Users/skycore-21/Documents/GoogleCustomSearch/firebase-admin-sdk.json"
             }
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'

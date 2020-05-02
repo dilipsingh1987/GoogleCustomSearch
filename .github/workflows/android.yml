@@ -13,6 +13,6 @@ jobs:
       - name: build release
         run:  bash ./gradlew assembleRelease
       - name: Deploy app distribution
-        run: bash ./gradlew appDistributionUploadRelease
+        run: bash ./gradlew appDistributionUploadRelease --stacktrace
 
 
