@@ -12,10 +12,6 @@ jobs:
       - uses: actions/checkout@v1
       - name: build release
         run:  bash ./gradlew assembleRelease
-      - name: decode service account key
-        env:
-        SERVICE_ACCOUNT: ${{ secrets.SERVICE_ACCOUNT }}
-        run: echo $SERVICE_ACCOUNT > app/firebase-admin-sdk.json
       - name: Deploy app distribution
         run: bash ./gradlew appDistributionUploadRelease
 
