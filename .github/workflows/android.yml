@@ -12,7 +12,6 @@ jobs:
       - uses: actions/checkout@v1
       - name: build release
         run:  bash ./gradlew assembleRelease
-
       - name: Deploy app distribution
         run: bash ./gradlew appDistributionUploadRelease
 
