@@ -5,9 +5,12 @@ on:
   push:
     branches:
       - master
-jobs:
-  build-android:
-    runs-on: macos-latest
+    jobs:
+      build-android:
+        strategy:
+          matrix:
+            platform: [ubuntu-latest, macos-latest, windows-latest]
+        runs-on: ${{ matrix.platform }}
     steps:
       - uses: r0adkll/sign-android-release@v1
         with:
