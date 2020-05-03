@@ -9,6 +9,7 @@ jobs:
   build-android:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v1
       - uses: r0adkll/sign-android-release@v1
           with:
             signingKeyBase64: ${{ secrets.SIGNING_KEY }}
@@ -17,7 +18,7 @@ jobs:
             keyPassword: ${{ secrets.KEY_PASSWORD }}
             releaseDirectory: app/build/outputs/apk/release
 
-      - uses: actions/checkout@v1
+
       - name: build release
           run: bash ./gradlew assembleRelease
             - name: upload artifact to Firebase App Distribution
