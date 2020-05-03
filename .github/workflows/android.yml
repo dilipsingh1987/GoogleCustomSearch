@@ -21,5 +21,7 @@ jobs:
       - name: build debug apk
         run: bash ./gradlew assembleDebug
 
+      - name: Deploy app distribution
+        run: bash ./gradlew appDistributionUploadRelease
 
 
