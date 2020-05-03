@@ -8,15 +8,23 @@ on:
 jobs:
   build-android:
     runs-on: ubuntu-latest
-      name: Generate APK
-      runs-on: ubuntu-18.04
-
     steps:
+      - uses: r0adkll/sign-android-release@v1
+          with:
+            signingKeyBase64: ${{ secrets.SIGNING_KEY }}
+            alias: ${{ secrets.ALIAS }}
+            keyStorePassword: ${{ secrets.KEY_STORE_PASSWORD }}
+            keyPassword: ${{ secrets.KEY_PASSWORD }}
+            releaseDirectory: app/build/outputs/apk/release
+
       - uses: actions/checkout@v1
       - name: build release
-        run:  bash ./gradlew assembleRelease
-
-      - name: Deploy app distribution
-        run: bash ./gradlew appDistributionUploadRelease
+          run: bash ./gradlew assembleRelease
+            - name: upload artifact to Firebase App Distribution
+              uses: wzieba/Firebase-Distribution-Github-Action@v1.2.1
+              with:
+                appId: ${{secrets.FIREBASE_APP_ID}}
+                token: ${{secrets.FIREBASE_TOKEN}}
+                file: app/build/outputs/apk/release/app-release-unsigned.apk
 
 
