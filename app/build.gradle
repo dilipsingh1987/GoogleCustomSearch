@@ -18,7 +18,7 @@ android {
             storePassword "GoogleCustomSearch"
             keyAlias "GoogleCustomSearch"
             keyPassword "GoogleCustomSearch"
-            storeFile file("app/build/outputs/GoogleCustomSearchKeystore.jks")
+            storeFile file("/app/build/outputs/GoogleCustomSearchKeystore.jks")
         }
 
     }
