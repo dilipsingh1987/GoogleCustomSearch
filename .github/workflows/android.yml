@@ -7,7 +7,7 @@ on:
       - master
 jobs:
   build-android:
-    runs-on: macOS-latest
+    runs-on: macos-10.14
     steps:
       - uses: r0adkll/sign-android-release@v1
         with:
