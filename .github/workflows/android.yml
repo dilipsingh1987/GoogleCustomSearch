@@ -5,9 +5,15 @@ on:
   push:
     branches:
       - master
+  schedule:
+    - cron:  '0 13 * * 6'
+
 jobs:
-  build-android:
-    runs-on: macos-10.14
+  build:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [macOS-latest]
     steps:
       - uses: r0adkll/sign-android-release@v1
         with:
