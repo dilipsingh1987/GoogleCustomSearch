@@ -16,9 +16,20 @@ jobs:
         os: [macOS-latest]
     steps:
       - uses: actions/checkout@v1
-      - name: Check versions of pre-installed software/system
-        run: ./.cisupport/pre.sh
-      - name: Execute full install
-        run:  ./setup.sh
-      - name: Check installed versions
-        run: ./.cisupport/post.sh
+      - name: set up JDK 1.8
+        uses: actions/setup-java@v1
+        with:
+          java-version: 1.8
+      - name: Make Gradle executable
+        run: chmod +x ./gradlew
+      - name: build with gradle
+        run: bash ./gradlew build
+      - name: build debug apk
+        run: bash ./gradlew assembleDebug
+      - name: upload artifact to Firebase App Distribution
+        uses: wzieba/Firebase-Distribution-Github-Action@v1.2.1
+        with:
+          appId: ${{secrets.FIREBASE_APP_ID}}
+          token: ${{secrets.FIREBASE_TOKEN}}
+          file: app/build/outputs/apk/release/app-release-unsigned.apk
+
