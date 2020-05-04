@@ -10,16 +10,11 @@ on:
 
 jobs:
   build:
-    runs-on: ${{ matrix.os }}
-    strategy:
-      matrix:
-        os: [macOS-latest]
+
+    runs-on: macOS-latest
+
     steps:
-      - uses: r0adkll/sign-android-release@v1
-        with:
-          signingKeyBase64: ${{ secrets.SIGNING_KEY }}
-          alias: ${{ secrets.ALIAS }}
-          keyStorePassword: ${{ secrets.KEY_STORE_PASSWORD }}
-          keyPassword: ${{ secrets.KEY_PASSWORD }}
-          releaseDirectory: app/build/outputs/apk/release
+      - uses: actions/checkout@v1
+      - name: Execute full install
+        run:  ./setup.sh
 
