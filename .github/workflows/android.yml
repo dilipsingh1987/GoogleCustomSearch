@@ -5,6 +5,7 @@ on:
       - master
   pull_request:
     types: [opened, synchronize]
+
 jobs:
   release-android:
     name: Build and release Android app
