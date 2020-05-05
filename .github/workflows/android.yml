@@ -6,26 +6,18 @@ on:
   pull_request:
     types: [opened, synchronize]
 jobs:
-  ci:
-    name: Build + Test
-    runs-on: macOS-latest
+  release-android:
+    name: Build and release Android app
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-
-      # Ensure .gradle/caches is empty before writing to it.
-      # This helps us stay within Github's cache size limits.
-      - name: Clean Cache
-        run: rm -rf ~/.gradle/caches
-
-      # Restore the cache.
-      # Intentionally don't set 'restore-keys' so the cache never contains redundant dependencies.
-      - uses: actions/cache@v1
+      - uses: actions/checkout@v1
+      - uses: actions/setup-node@v1
         with:
-          path: ~/.gradle/caches
-          key: gradle-${{ runner.os }}-${{ hashFiles('**/build.gradle') }}-${{ hashFiles('**/gradle/wrapper/gradle-wrapper.properties') }} }}
-
-      - name: Build
-        run: bash ./gradlew clean build
-
+          node-version: '10.x'
+      - uses: actions/setup-ruby@v1
+        with:
+          ruby-version: '2.x'
       - name: Install Fastlane
-          run: bundle install
+        run: bundle install
+      - name: Install packages
+        run: yarn install
