@@ -25,4 +25,4 @@ jobs:
           key: gradle-${{ runner.os }}-${{ hashFiles('**/build.gradle') }}-${{ hashFiles('**/gradle/wrapper/gradle-wrapper.properties') }} }}
 
       - name: Build
-        run: ./gradlew clean build
+        run: bash ./gradlew clean build
