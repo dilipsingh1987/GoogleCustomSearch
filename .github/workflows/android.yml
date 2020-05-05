@@ -26,4 +26,8 @@ jobs:
           appId: ${{secrets.FIREBASE_APP_ID}}
           token: ${{secrets.FIREBASE_TOKEN}}
           file: app/build/outputs/apk/release/app-release-unsigned.apk
+      - name: Install Dependencies
+        run: gem install bundler && bundle install
 
+      - name: Run Fastlane Compile Lane
+        run: fastlane compile
