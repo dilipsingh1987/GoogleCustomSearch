@@ -1,27 +1,28 @@
-name: Testing Workflow
-
-
+name: firebase app distribution
 on:
   push:
     branches:
       - master
+  pull_request:
+    types: [opened, synchronize]
 jobs:
-  build-android:
+  ci:
+    name: Build + Test
     runs-on: macOS-latest
-      steps:
+    steps:
       - uses: actions/checkout@v2
 
-        # Ensure .gradle/caches is empty before writing to it.
-        # This helps us stay within Github's cache size limits.
+      # Ensure .gradle/caches is empty before writing to it.
+      # This helps us stay within Github's cache size limits.
       - name: Clean Cache
         run: rm -rf ~/.gradle/caches
 
-        # Restore the cache.
-        # Intentionally don't set 'restore-keys' so the cache never contains redundant dependencies.
+      # Restore the cache.
+      # Intentionally don't set 'restore-keys' so the cache never contains redundant dependencies.
       - uses: actions/cache@v1
         with:
-            path: ~/.gradle/caches
-            key: gradle-${{ runner.os }}-${{ hashFiles('**/build.gradle') }}-${{ hashFiles('**/gradle/wrapper/gradle-wrapper.properties') }} }}
+          path: ~/.gradle/caches
+          key: gradle-${{ runner.os }}-${{ hashFiles('**/build.gradle') }}-${{ hashFiles('**/gradle/wrapper/gradle-wrapper.properties') }} }}
 
       - name: Build
         run: ./gradlew clean build
