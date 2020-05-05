@@ -14,6 +14,6 @@ jobs:
       - name: Deploy app distribution
         run: bash ./gradlew appDistributionUploadRelease
 
-        uses: maierj/fastlane-action@v1.4.0
+      - uses: maierj/fastlane-action@v1.4.0
         with:
           lane: 'publish_to_firebase'
