@@ -3,22 +3,17 @@ on:
   push:
     branches:
       - master
-  pull_request:
-    types: [opened, synchronize]
-
 jobs:
-  release-android:
-    name: Build and release Android app
+  build-android:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - uses: actions/setup-node@v1
+      - name: build release
+        run:  bash ./gradlew assembleRelease
+
+      - name: Deploy app distribution
+        run: bash ./gradlew appDistributionUploadRelease
+
+        uses: maierj/fastlane-action@v1.4.0
         with:
-          node-version: '10.x'
-      - uses: actions/setup-ruby@v1
-        with:
-          ruby-version: '2.x'
-      - name: Install Fastlane
-        run: bundle install
-      - name: Install packages
-        run: yarn install
+          lane: 'publish_to_firebase'
