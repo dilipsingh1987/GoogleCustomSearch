@@ -28,6 +28,7 @@ jobs:
       - name: Build
         run: bash ./gradlew clean build
 
+
       - uses: maierj/fastlane-action@v1.4.0
         with:
             lane: 'publish_to_firebase'
