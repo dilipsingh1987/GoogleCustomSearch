@@ -29,5 +29,6 @@ jobs:
         run: bash ./gradlew clean build
 
       - uses: maierj/fastlane-action@v1.4.0
+        run: fastlane add_plugin firebase_app_distribution
         with:
             lane: 'publish_to_firebase'
