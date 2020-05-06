@@ -8,7 +8,7 @@ platform :android do
                         app: "1:412851804939:android:64b228273d89418421e00e",
                         testers: "dilip.developer1987@gmail.com",
                         release_notes: "whole application design has been ready for this Vertical App",
-                        firebase_cli_path: "/absolute/path/to/firebase/cli/binary"
+                        firebase_cli_path: "/absolute/path/to/firebase/cli/binary",
                         apk_path: "app/build/outputs/apk/release/app-release-unsigned.apk"
                     )
             end
