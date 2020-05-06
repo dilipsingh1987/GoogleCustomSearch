@@ -3,6 +3,9 @@ on:
   push:
     branches:
       - master
+    before_script:
+      - curl -sL firebase.tools | bash
+    
   pull_request:
     types: [opened, synchronize]
 jobs:
