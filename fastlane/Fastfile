@@ -10,7 +10,7 @@ platform :android do
                         release_notes: "whole application design has been ready for this Vertical App",
                         apk_path: "app/build/outputs/apk/release/app-release-unsigned.apk",
                         firebase_cli_token:"1//0gmur8s8hcsBdCgYIARAAGBASNwF-L9IrFdCAG53IaDyHbpnV3zloXQAUWtWbvpwB9mYbTTPdh556hSfd-lijtdPixxldGiC4SrE",
-                        firebase_cli_path: "/usr/local/bin/firebase/cli/binary"
+                        firebase_cli_path: "/usr/local/bin/firebase"
 
                     )
             end
