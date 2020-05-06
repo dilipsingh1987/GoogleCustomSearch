@@ -17,7 +17,6 @@ jobs:
         run: rm -rf ~/.gradle/caches
 
 
-
       # Restore the cache.
       # Intentionally don't set 'restore-keys' so the cache never contains redundant dependencies.
       - uses: actions/cache@v1
