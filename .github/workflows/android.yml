@@ -8,7 +8,7 @@ on:
 jobs:
   ci:
     name: Build + Test
-    runs-on: macOS-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       # Ensure .gradle/caches is empty before writing to it.
