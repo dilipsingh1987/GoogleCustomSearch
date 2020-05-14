@@ -12,7 +12,7 @@ platform :android do
                         app: "1:412851804939:android:64b228273d89418421e00e",
                         testers: "dilip.developer1987@gmail.com",
                         release_notes: "whole application design has been ready for this Vertical App",
-                        apk_path: apk_paths,
+                        apk_path: ENV['APK_FILE_PATH'],
                         firebase_cli_token:"1//0gkmN0CH8ozsxCgYIARAAGBASNwF-L9Irfmn_DmJeefTvTW5nMfjenkmmAzxjS_42a8xSGuVNmuDFvKukimz4aYmxW4rjCFaAkGA",
                         firebase_cli_path: "/usr/local/bin/firebase"
                     )
