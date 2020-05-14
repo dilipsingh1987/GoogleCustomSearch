@@ -3,16 +3,15 @@ default_platform :android
 
 platform :android do
       lane :publish_to_firebase do |options|
-       apk_search_path = File.join(project_dir, '**', 'build', 'outputs', 'apk', '*.apk')
+       apk_search_path = File.join('/Users/skycore-21/Documents', 'GoogleCustomSearch', 'app', 'release','app-release.apk')
        build_notes = "Environment: android. Branch: #{options[:branch]}. Notes: #{options[:notes]}. Built by #{options[:author]}"
            firebase_app_distribution(
                         app: "1:412851804939:android:64b228273d89418421e00e",
                         testers: "dilip.developer1987@gmail.com",
                         release_notes: "whole application design has been ready for this Vertical App",
-                        apk_path: "app/release/app-release.apk",
+                        apk_path: apk_search_path,
                         firebase_cli_token:"1//0gkmN0CH8ozsxCgYIARAAGBASNwF-L9Irfmn_DmJeefTvTW5nMfjenkmmAzxjS_42a8xSGuVNmuDFvKukimz4aYmxW4rjCFaAkGA",
                         firebase_cli_path: "/usr/local/bin/firebase"
-
                     )
             end
 end
