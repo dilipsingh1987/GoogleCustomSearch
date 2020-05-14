@@ -31,4 +31,4 @@ jobs:
 
       - uses: maierj/fastlane-action@v1.4.0
         with:
-            lane: 'publish_to_firebase'
+            lane: 'publish_to_firebase --env GoogleCustomSearch'
