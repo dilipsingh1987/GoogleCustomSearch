@@ -3,6 +3,7 @@ default_platform :android
 
 platform :android do
       lane :publish_to_firebase do |options|
+       apk_search_path = File.join(project_dir, '**', 'build', 'outputs', 'apk', '*.apk')
        build_notes = "Environment: android. Branch: #{options[:branch]}. Notes: #{options[:notes]}. Built by #{options[:author]}"
            firebase_app_distribution(
                         app: "1:412851804939:android:64b228273d89418421e00e",
