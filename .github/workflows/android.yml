@@ -9,7 +9,7 @@ jobs:
   ci:
     name: Build + Test
     runs-on: ubuntu-latest
-      steps:
+    steps:
       - uses: r0adkll/sign-android-release@v1
         with:
         signingKeyBase64: ${{ secrets.SIGNING_KEY }}
