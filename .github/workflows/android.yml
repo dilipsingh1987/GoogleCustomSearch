@@ -3,32 +3,14 @@ on:
   push:
     branches:
       - master
-  pull_request:
-    types: [opened, synchronize]
 jobs:
-  ci:
-    name: Build + Test
-    runs-on: macOS-10.15
+  build-android:
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      # Ensure .gradle/caches is empty before writing to it.
-      # This helps us stay within Github's cache size limits.
-      - name: Clean Cache
-        run: rm -rf ~/.gradle/caches
-
-      # Restore the cache.
-      # Intentionally don't set 'restore-keys' so the cache never contains redundant dependencies.
-      - uses: actions/cache@v1
+      - uses: r0adkll/sign-android-release@v1
         with:
-          path: ~/.gradle/caches
-          key: gradle-${{ runner.os }}-${{ hashFiles('**/build.gradle') }}-${{ hashFiles('**/gradle/wrapper/gradle-wrapper.properties') }} }}
-
-      - name: Build
-        run: bash ./gradlew clean build
-
-      - name: Setup Firebase CLI
-        run: npm install -g firebase-tools
-
-      - uses: maierj/fastlane-action@v1.4.0
-        with:
-            lane: 'publish_to_firebase --env GoogleCustomSearch'
+          signingKeyBase64: ${{ secrets.SIGNING_KEY }}
+          alias: ${{ secrets.ALIAS }}
+          keyStorePassword: ${{ secrets.KEY_STORE_PASSWORD }}
+          keyPassword: ${{ secrets.KEY_PASSWORD }}
+          releaseDirectory: /app/build/outputs/apk/release
