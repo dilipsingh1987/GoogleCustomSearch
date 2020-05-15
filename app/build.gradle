@@ -14,7 +14,7 @@ android {
     }
     android.applicationVariants.all { variant ->
         variant.outputs.all { output ->
-            def fileName = "${project.name}_${output.baseName}-${variant.versionName}.apk"
+            def fileName = "${project.name}-${output.baseName}.apk"
             outputFileName = new File(output.outputFile.parent, fileName).getName()
         }
     }
