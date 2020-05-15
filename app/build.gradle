@@ -19,7 +19,7 @@ android {
         }
     }
 
-    def keystorePropertiesFile = rootProject.file("./app/keystore.properties")
+    def keystorePropertiesFile = rootProject.file("/Users/skycore-21/Documents/GoogleCustomSearch/app/keystore.properties")
     def keystoreProperties = new Properties()
     keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
 
@@ -34,7 +34,7 @@ android {
             storePassword "GoogleCustomSearch"
             keyAlias "GoogleCustomSearch"
             keyPassword "GoogleCustomSearch"
-            storeFile file("./app/GoogleCustomSearchKeystore.jks")
+            storeFile file("/Users/skycore-21/Documents/GoogleCustomSearch/app/GoogleCustomSearchKeystore.jks")
         }
 
     }
@@ -44,7 +44,7 @@ android {
             //signingConfig signingConfigs.release
             firebaseAppDistribution {
                 appId = "1:412851804939:android:64b228273d89418421e00e"
-                serviceCredentialsFile = "./app/firebase-admin-sdk.json"
+                serviceCredentialsFile = "/Users/skycore-21/Documents/GoogleCustomSearch/app/firebase-admin-sdk.json"
             }
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
