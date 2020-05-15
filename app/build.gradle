@@ -19,7 +19,7 @@ android {
         }
     }
 
-    def keystorePropertiesFile = rootProject.file("/Users/skycore-21/Documents/GoogleCustomSearch/app/keystore.properties")
+    /*def keystorePropertiesFile = rootProject.file("app/keystore.properties")
     def keystoreProperties = new Properties()
     keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
 
@@ -31,13 +31,13 @@ android {
             storeFile file(rootDir.getCanonicalPath() + '/' + keystoreProperties['releaseKeyStore'])
             storePassword keystoreProperties['releaseStorePassword']
 
-            storePassword "GoogleCustomSearch"
+            *//*storePassword "GoogleCustomSearch"
             keyAlias "GoogleCustomSearch"
             keyPassword "GoogleCustomSearch"
-            storeFile file("/Users/skycore-21/Documents/GoogleCustomSearch/app/GoogleCustomSearchKeystore.jks")
+            storeFile file("/Users/skycore-21/Documents/GoogleCustomSearch/app/GoogleCustomSearchKeystore.jks")*//*
         }
 
-    }
+    }*/
 
     buildTypes {
         release {
