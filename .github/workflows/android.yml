@@ -24,7 +24,7 @@ jobs:
       - name: build debug apk
         run: bash ./gradlew assembleDebug
       - name: Set project dir environment var
-        run: echo ::set-env name=PROJECT_DIR::"$GITHUB_WORKSPACE/GoogleCustomSearch"
+        run: echo ::set-env name=/Users/skycore-21/Documents/GoogleCustomSearch/app/firebase-admin-sdk.json::"$GITHUB_WORKSPACE/GoogleCustomSearch"
       - name: upload artifact to Firebase App Distribution
         uses: wzieba/Firebase-Distribution-Github-Action@v1.2.1
         with:
