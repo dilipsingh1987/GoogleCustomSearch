@@ -30,4 +30,4 @@ jobs:
           appId: ${{secrets.FIREBASE_APP_ID}}
           token: ${{secrets.FIREBASE_TOKEN}}
           groups: dilip.developer1987@gmail.com
-          file: app/build/outputs/apk/debug/app-release.apk
+          file: app/build/outputs/apk/debug/app-debug.apk
