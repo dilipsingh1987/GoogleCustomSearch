@@ -7,7 +7,7 @@ on:
     types: [opened, synchronize]
 jobs:
   build-android:
-    runs-on: ubuntu-latest
+    runs-on: macOS-10.15
     steps:
       - uses: actions/checkout@v1
       - name: set up JDK 1.8
