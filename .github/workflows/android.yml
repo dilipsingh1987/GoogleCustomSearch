@@ -13,4 +13,4 @@ jobs:
           alias: ${{ secrets.ALIAS }}
           keyStorePassword: ${{ secrets.KEY_STORE_PASSWORD }}
           keyPassword: ${{ secrets.KEY_PASSWORD }}
-          releaseDirectory: ./app/build/outputs/apk/release
+          releaseDirectory: app/build/outputs/apk/release
