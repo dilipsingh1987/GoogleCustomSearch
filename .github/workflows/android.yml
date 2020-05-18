@@ -14,6 +14,12 @@ jobs:
         uses: actions/setup-java@v1
         with:
          java-version: 1.8
-      - name: generating keystore and SHA1 key
-        shell: powershell
-        run: keytool -genkey -v -keystore GoogleCustomSearchKeystore.keystore -alias GoogleCustomSearch -keyalg RSA -keysize 2048 -validity 10000
+      - name: Generating debug keystore and SHA1 key
+          shell: powershell
+          run: |
+            md \Users\runneradmin\.android
+            keytool -genkey -dname "cn=GoogleCustomSearch, ou=DSCBVPPUNE, o=Google, l=Pune, st=Maharashtra, c=IN" -keystore \Users\runneradmin\.android\GoogleCustomSearch.keystore -storepass android -alias GoogleCustomSearch -keyalg RSA -keysize 4096 -validity 10000 -v
+
+      - name: Displaying debug.keystore file
+          shell: powershell
+          run: keytool -list -v -keystore \Users\runneradmin\.android\GoogleCustomSearch.keystore -alias GoogleCustomSearch -storepass android -keypass android
