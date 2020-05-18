@@ -31,6 +31,7 @@ android {
             storeFile file(rootDir.getCanonicalPath() + '/' + keystoreProperties['releaseKeyStore'])
             storePassword keystoreProperties['releaseStorePassword']*/
 
+
             storePassword "GoogleCustomSearch"
             keyAlias "GoogleCustomSearch"
             keyPassword "GoogleCustomSearch"
