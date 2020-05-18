@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: build release
-        run:  bash ./gradlew assembleRelease --stacktrace
+        run:  bash ./gradlew assembleRelease
 
       - name: Setup Firebase CLI
         run: npm install -g firebase-tools
