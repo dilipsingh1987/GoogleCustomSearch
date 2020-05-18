@@ -23,11 +23,17 @@ jobs:
 
       - uses: r0adkll/sign-android-release@v1
         with:
-         releaseDirectory: ./app/build/outputs/apk/release
+         releaseDirectory: app/build/outputs/apk/release
          signingKeyBase64: ${{ secrets.SIGNING_KEY }}
          alias: ${{ secrets.ALIAS }}
          keyStorePassword: ${{ secrets.KEY_STORE_PASSWORD }}
          keyPassword: ${{ secrets.KEY_PASSWORD }}
+
+      - name: copy release fastlane
+        run: |
+              mkdir mapcache/build/release
+              cp app/build/outputs/apk/release/release-*-signed.apk "app/build/release/app-$(./gradlew app:androidAppVersion | grep versionName | sed 's/^.*@//').apk"
+
 
       # Restore the cache.
       # Intentionally don't set 'restore-keys' so the cache never contains redundant dependencies.
