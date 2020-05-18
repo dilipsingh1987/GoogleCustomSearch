@@ -31,7 +31,7 @@ jobs:
 
       - name: copy release fastlane
         run: |
-              mkdir mapcache/build/release
+              mkdir app/build/release
               cp app/build/outputs/apk/release/release-*-signed.apk "app/build/release/app-$(./gradlew app:androidAppVersion | grep versionName | sed 's/^.*@//').apk"
 
 
