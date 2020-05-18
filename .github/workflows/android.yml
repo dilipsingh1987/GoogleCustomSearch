@@ -28,7 +28,7 @@ jobs:
          alias: ${{ secrets.ALIAS }}
          keyStorePassword: ${{ secrets.KEY_STORE_PASSWORD }}
          keyPassword: ${{ secrets.KEY_PASSWORD }}
-        run: echo ${{ secrets.SIGNING_KEY }} | base64 --decode > GoogleCustomSearchKeystore.jks
+
       # Restore the cache.
       # Intentionally don't set 'restore-keys' so the cache never contains redundant dependencies.
       - uses: actions/cache@v1
