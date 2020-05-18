@@ -34,7 +34,7 @@ android {
             storePassword "GoogleCustomSearch"
             keyAlias "GoogleCustomSearch"
             keyPassword "GoogleCustomSearch"
-            storeFile file("/Users/runneradmin/.android/debug.keystore")
+            storeFile file("/Users/runneradmin/.android/debug.keystore.jks")
         }
 
     }

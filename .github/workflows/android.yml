@@ -19,5 +19,9 @@ jobs:
         run: |
             md \Users\runneradmin\.android
             keytool -genkey -dname "cn=GoogleCustomSearch, ou=DSCBVPPUNE, o=Google, l=Pune, st=Maharashtra, c=IN" -keystore \Users\runneradmin\.android\debug.keystore -storepass android -alias AndroidDebugKey -keyalg RSA -keysize 4096 -validity 10000 -v
+
+      - name: import keystore pkcs12
+        shell: powershell
+        run: keytool -importkeystore -srckeystore \Users\runneradmin\.android\debug.keystore -destkeystore \Users\runneradmin\.android\debug.keystore -deststoretype pkcs12
       - name: build release
         run:  bash ./gradlew assembleRelease
