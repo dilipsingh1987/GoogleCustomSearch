@@ -31,8 +31,8 @@ jobs:
 
       - name: copy release fastlane
         run: |
-              mkdir app/build/release
-              cp app/build/outputs/apk/release/app-release-signed.apk "app/build/release/app-release.apk"
+              mkdir app/build/outputs/apk/release
+              cp app/build/outputs/apk/release/app-release-signed.apk "app/build/outputs/apk/release/app-release.apk"
 
 
       # Restore the cache.
