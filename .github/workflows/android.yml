@@ -7,11 +7,11 @@ on:
     types: [opened, synchronize]
 jobs:
   build-android:
-    runs-on: macOS-10.15
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
       - name: build release
-        run:  bash ./gradlew assembleRelease
+        run:  bash ./gradlew assembleRelease --stacktrace
 
       - name: Setup Firebase CLI
         run: npm install -g firebase-tools
