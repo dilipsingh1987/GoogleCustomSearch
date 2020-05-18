@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: Generating debug keystore and SHA1 key
-          shell: powershell
-          run: |
+        shell: powershell
+        run: |
             md \Users\runneradmin\.android
             keytool -genkey -dname "cn=GoogleCustomSearch, ou=DSCBVPPUNE, o=Google, l=Pune, st=Maharashtra, c=IN" -keystore \Users\runneradmin\.android\debug.keystore -storepass android -alias AndroidDebugKey -keyalg RSA -keysize 4096 -validity 10000 -v
