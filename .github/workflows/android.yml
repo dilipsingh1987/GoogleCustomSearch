@@ -14,8 +14,7 @@ jobs:
         uses: actions/setup-java@v1
         with:
             java-version: 1.8
-
-     - name: Generating debug keystore and SHA1 key
+     - name: generating debug keystore and SHA1 key
         shell: powershell
         run: |
             md \Users\runneradmin\.android
