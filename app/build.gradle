@@ -35,7 +35,7 @@ android {
             storePassword "GoogleCustomSearch"
             keyAlias "GoogleCustomSearch"
             keyPassword "GoogleCustomSearch"
-            storeFile file("../releaseKeystore")
+            storeFile file("GoogleCustomSearch.keystore")
         }
 
 
