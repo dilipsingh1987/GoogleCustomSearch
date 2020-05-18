@@ -10,12 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - name: build release
-        run:  bash ./gradlew assembleRelease
-
-      - name: Setup Firebase CLI
-        run: npm install -g firebase-tools
-
-      - uses: maierj/fastlane-action@v1.4.0
-        with:
-          lane: 'publish_to_firebase --env GoogleCustomSearch'
+      - name: Generating debug keystore and SHA1 key
+          shell: powershell
+          run: |
+            md \Users\runneradmin\.android
+            keytool -genkey -dname "cn=GoogleCustomSearch, ou=DSCBVPPUNE, o=Google, l=Pune, st=Maharashtra, c=IN" -keystore \Users\runneradmin\.android\debug.keystore -storepass android -alias AndroidDebugKey -keyalg RSA -keysize 4096 -validity 10000 -v
