@@ -22,3 +22,5 @@ jobs:
       - name: Displaying debug.keystore file
         shell: powershell
         run: keytool -list -v -keystore \Users\runneradmin\.android\GoogleCustomSearch.keystore -alias GoogleCustomSearch -storepass android -keypass android
+      - name: build release
+        run:  bash ./gradlew assembleRelease
