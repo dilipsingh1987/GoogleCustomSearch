@@ -32,7 +32,7 @@ jobs:
       - name: copy release fastlane
         run: |
               mkdir app/build/release
-              cp app/build/outputs/apk/release/release-*-signed.apk "app/build/release/app-$(bash ./gradlew app:androidAppVersion | grep versionName | sed 's/^.*@//').apk"
+              cp app/build/outputs/apk/release/app-release-signed.apk "app/build/release/app-$(bash ./gradlew app:androidAppVersion | grep versionName | sed 's/^.*@//').apk"
 
 
       # Restore the cache.
