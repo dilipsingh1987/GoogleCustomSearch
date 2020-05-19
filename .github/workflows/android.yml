@@ -29,9 +29,6 @@ jobs:
           path: ~/.gradle/caches
           key: gradle-${{ runner.os }}-${{ hashFiles('**/build.gradle') }}-${{ hashFiles('**/gradle/wrapper/gradle-wrapper.properties') }} }}
 
-      - name: Build
-        run: bash ./gradlew clean build
-
       - name: Setup Firebase CLI
         run: npm install -g firebase-tools
 
