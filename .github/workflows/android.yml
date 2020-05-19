@@ -20,7 +20,7 @@ jobs:
         run: echo "y" | sudo ${ANDROID_HOME}/tools/bin/sdkmanager --install "ndk;20.0.5594570"
             # Step to Build the Project and generate the APK
       - name: Build Debug
-        run: bash ./gradlew assembleRelease
+        run: bash ./gradlew assembleDebug
 
           # Restore the cache.
           # Intentionally don't set 'restore-keys' so the cache never contains redundant dependencies.
