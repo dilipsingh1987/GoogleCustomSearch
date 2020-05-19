@@ -15,13 +15,12 @@ jobs:
         uses: actions/setup-java@v1
         with:
             java-version: 1.8
-      - name: Make gradlew executable
-        run: chmod +x ./gradlew
-      - name: Build
-        run: bash ./gradlew clean build
-       # Step to Build the Project and generate the APK
+            # Step to install the NDK
+      - name: Install NDK
+        run: echo "y" | sudo ${ANDROID_HOME}/tools/bin/sdkmanager --install "ndk;20.0.5594570"
+            # Step to Build the Project and generate the APK
       - name: Build Debug
-        run: bash ./gradlew assembleDebug
+        run: bash ./gradlew assembleDebug --debug
 
           # Restore the cache.
           # Intentionally don't set 'restore-keys' so the cache never contains redundant dependencies.
