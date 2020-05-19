@@ -20,5 +20,22 @@ jobs:
         run: echo "y" | sudo ${ANDROID_HOME}/tools/bin/sdkmanager --install "ndk;20.0.5594570"
             # Step to Build the Project and generate the APK
       - name: Build Debug
-        run: bash ./gradlew assembleDebug
+        run: bash ./gradlew assembleRelease
+
+          # Restore the cache.
+          # Intentionally don't set 'restore-keys' so the cache never contains redundant dependencies.
+      - uses: actions/cache@v1
+        with:
+          path: ~/.gradle/caches
+          key: gradle-${{ runner.os }}-${{ hashFiles('**/build.gradle') }}-${{ hashFiles('**/gradle/wrapper/gradle-wrapper.properties') }} }}
+
+      - name: Build
+        run: bash ./gradlew clean build
+
+      - name: Setup Firebase CLI
+        run: npm install -g firebase-tools
+
+      - uses: maierj/fastlane-action@v1.4.0
+        with:
+          lane: 'publish_to_firebase --env GoogleCustomSearch'
 
