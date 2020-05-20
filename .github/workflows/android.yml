@@ -8,9 +8,6 @@ on:
 jobs:
   build-android:
     runs-on: macOS-10.15
-    env:
-    working-directory: ./app
-
     steps:
       - uses: actions/checkout@v1
           # Step to Configure the JDK
@@ -18,6 +15,9 @@ jobs:
         uses: actions/setup-java@v1
         with:
             java-version: 1.8
+      - name: Set project dir environment var
+        run: echo ::set-env name=PROJECT_DIR::"$GITHUB_WORKSPACE/GoogleCustomSearch"
+
       - name: Build debug APK
         run: bash ./gradlew assembleDebug
 
