@@ -15,8 +15,11 @@ jobs:
         uses: actions/setup-java@v1
         with:
             java-version: 1.8
+      - name: debug gradle task
+        run: bash ./gradlew tasks --all
+
       - name: Build debug APK
-        run: bash ./gradlew --update-locks assembleDebug
+        run: bash ./gradlew assembleDebug
 
       - name: Setup Firebase CLI
         run: npm install -g firebase-tools
