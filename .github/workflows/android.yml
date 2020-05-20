@@ -15,11 +15,9 @@ jobs:
         uses: actions/setup-java@v1
         with:
             java-version: 1.8
-      - name: Set project dir environment var
-        run: echo ::set-env name=PROJECT_DIR::"$GITHUB_WORKSPACE/Users/skycore-21/Documents/GoogleCustomSearch/app"
-
       - name: Build debug APK
         run: bash ./gradlew assembleDebug
+        working-directory: ./app
 
       - name: Setup Firebase CLI
         run: npm install -g firebase-tools
