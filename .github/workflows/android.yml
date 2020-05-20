@@ -15,8 +15,16 @@ jobs:
         uses: actions/setup-java@v1
         with:
             java-version: 1.8
-      - name: Check directory
-         run: bash ./Users/skycore-21/Documents/GoogleCustomSearch/app/keystore.properties
+      - name: Check file existence
+          id: check_files
+          uses: andstor/file-existence-action@v1
+          with:
+            files: "keystore.properties, LICENSE, README.md"
+
+      - name: File exists
+          if: steps.check_files.outputs.files_exists == 'true'
+              # Only runs if all of the files exists
+              run: echo All files exists!
 
       - name: Build debug APK
         run: bash ./gradlew assembleDebug --stacktrace
