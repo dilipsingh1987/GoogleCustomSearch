@@ -23,6 +23,7 @@ android {
     def jsonFile = file("/Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/assets/Config.json")
     def parsedJson = new JsonSlurper().parseText(jsonFile.text)
 
+
     /*def keystorePropertiesFile = rootProject.file("app/keystore.properties")
     def keystoreProperties = new Properties()
     keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
