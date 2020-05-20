@@ -16,7 +16,7 @@ jobs:
         with:
             java-version: 1.8
       - name: Check directory
-         run: bash /Users/skycore-21/Documents/GoogleCustomSearch/app/keystore.properties
+         run: bash ./Users/skycore-21/Documents/GoogleCustomSearch/app/keystore.properties
 
       - name: Build debug APK
         run: bash ./gradlew assembleDebug --stacktrace
