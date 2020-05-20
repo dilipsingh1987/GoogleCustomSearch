@@ -16,7 +16,7 @@ jobs:
         with:
             java-version: 1.8
       - name: Build debug APK
-        run: bash ./gradlew assembleDebug --stacktrace
+        run: bash ./gradlew --update-locks assembleDebug
 
       - name: Setup Firebase CLI
         run: npm install -g firebase-tools
