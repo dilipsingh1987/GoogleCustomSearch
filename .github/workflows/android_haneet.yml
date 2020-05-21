@@ -6,8 +6,8 @@ on:
   pull_request:
     types: [opened, synchronize]
 jobs:
-  build-android:
-    runs-on: macOS-10.15
+  build:
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
           # Step to Configure the JDK
@@ -18,7 +18,7 @@ jobs:
       - name: Make Gradle executable
         run: chmod +x ./gradlew
       - name: Build debug APK
-        run: bash ./gradlew assembleDebug
+        run: bash ./gradlew assembleDebug --stacktrace
 
       - name: Setup Firebase CLI
         run: npm install -g firebase-tools
