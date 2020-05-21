@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GoogleCustomSearch.iml" filepath="$PROJECT_DIR$/GoogleCustomSearch.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GoogleCustomSearch.iml" filepath="$PROJECT_DIR$/GoogleCustomSearch.iml" group="GoogleCustomSearch" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="GoogleCustomSearch/app" />
     </modules>
   </component>
 </project>
