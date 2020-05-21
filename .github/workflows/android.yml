@@ -15,9 +15,6 @@ jobs:
         uses: actions/setup-java@v1
         with:
             java-version: 1.8
-      - name: Add strawperryperl to the PATH to override the existing Perl installation so we can compile OpenSSL locally
-        run: echo "##[add-path]/Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/assets/Config.json"
-
       - name: Build debug APK
         run: bash ./gradlew assembleDebug
 
