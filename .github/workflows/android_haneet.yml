@@ -6,8 +6,8 @@ on:
   pull_request:
     types: [opened, synchronize]
 jobs:
-#  build:
-    runs-on: ubuntu-latest
+ build-android:
+    runs-on: macOS-10.15
     steps:
       - uses: actions/checkout@v1
           # Step to Configure the JDK
