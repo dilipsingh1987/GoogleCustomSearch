@@ -20,7 +20,7 @@ android {
             outputFileName = new File(output.outputFile.parent, fileName).getName()
         }
     }
-    def jsonFile = new File("/Users/skycore-21/Documents/GoogleCustomSearch/app/src/main/assets/Config.json")
+    def jsonFile = new File("app/src/main/assets/Config.json")
     new JsonSlurper().parseText(jsonFile.text)
 
     /*def keystorePropertiesFile = rootProject.file("app/keystore.properties")
